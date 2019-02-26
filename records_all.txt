@@ -1,0 +1,153 @@
+Tetris: Personal Records of 12 + 2 Games
+=====================================================================
+
+************************** Official Games ***************************
+
+Tetris (GB/US)                                         Nintendo, 1989
+---------------------------------------------------------------------
+A-Type (9)              - 472,782 (18x lines)
+A-Type (9♡)             - 102,600 ( 83 lines)
+B-Type (9/H0)           -  84,411
+B-Type (9/H5)           -  21,101
+B-Type (9♡/H0)          -  11,400
+B-Type (9♡/H1)          -  11,800
+B-Type (9♡/H2)          -  11,200
+B-Type (9♡/H3)          -  10,200
+B-Type (9♡/H4)          -  10,600
+
+Tetris (NES/US)                                        Nintendo, 1989
+---------------------------------------------------------------------
+A-Type (9)              - 518,717 (190 lines)
+
+Tetris 2 + Bombliss (NES/JP)                                BPS, 1991
+---------------------------------------------------------------------
+A-Type (20)             - 999,999 (361 lines)
+A-Type (21)             - 999,999 (348 lines)
+A-Type (22)             - 999,999 (301 lines)
+A-Type (23)             - 999,999 (262 lines)
+A-Type (24)             - 813,160 (254 lines)
+
+Super Tetris 2 + Bombliss (SNES/JP)                         BPS, 1992
+---------------------------------------------------------------------
+A-Type (0)              - 999,999 (354 lines)
+A-Type (1)              - 999,999 (295 lines)
+A-Type (2)              - 999,999 (337 lines)
+A-Type (3)              - 999,999 (295 lines)
+A-Type (4)              - 999,999 (323 lines)
+A-Type (5)              - 999,999 (297 lines)
+A-Type (6)              - 999,999 (315 lines)
+A-Type (7)              - 999,999 (316 lines)
+A-Type (8)              - 999,999 (285 lines)
+A-Type (9)              - 999,999 (268 lines)
+A-Type (10)             - 999,999 (276 lines)
+A-Type (11)             - 999,999 (268 lines)
+A-Type (12)             - 999,999 (268 lines)
+A-Type (13)             - 999,999 (261 lines)
+A-Type (14)             - 999,999 (255 lines)
+A-Type (15)             - 999,999 (232 lines)
+A-Type (16)             - 999,999 (220 lines)
+A-Type (17)             - 999,999 (224 lines)
+A-Type (18)             - 999,999 (220 lines)
+A-Type (19)             - 999,999 (213 lines)
+A-Type (20)             - 999,999 (204 lines)
+A-Type (21)             - 999,999 (198 lines)
+A-Type (22)             - 999,999 (178 lines)
+A-Type (23)             - 999,999 (174 lines)
+A-Type (24)             - 999,999 (171 lines)
+A-Type (25)             - 999,999 (154 lines)
+A-Type (26)             - 999,999 (150 lines)
+A-Type (27)             - 999,999 (152 lines)
+A-Type (28)             - 999,999 (147 lines)
+A-Type (29)             - 999,999 (142 lines)
+A-Type (SP0)            - 999,999 (138 lines)
+A-Type (SP1)            - 999,999 (144 lines)
+A-Type (SP2)            - 999,999 (147 lines)
+A-Type (SP3)            - 999,999 (151 lines)
+A-Type (SP4)            - 999,999 (144 lines)
+A-Type (SP5)            - 999,999 (121 lines)
+A-Type (SP6)            - 999,999 (154 lines)
+A-Type (SP7)            - 999,999 (174 lines)
+A-Type (SP8)            - 999,999 (131 lines)
+A-Type (SP9)            - 999,999 (137 lines)
+
+Super Tetris 3 (SNES/JP)                                    BPS, 1994
+---------------------------------------------------------------------
+Endless (20)            - 999,999 (200 lines)
+Endless (21)            - 999,999 (193 lines)
+
+Tetris Plus (GB/US)                                      Jaleco, 1996
+---------------------------------------------------------------------
+Classic (12)            - 999,999 (405 lines)
+Classic (20)            - 999,999 (405 lines)
+
+Tetris DX (GBC/US)                                     Nintendo, 1998
+---------------------------------------------------------------------
+Marathon (9)            - 9,999,999 (3099 lines)
+Ultra    (9)            -   183,949 (  66 lines)
+40 Lines (9/H0)         - 1:49 (111,371 pts.)
+40 Lines (9/H1)         - 1:43 (103,788 pts.)
+40 Lines (9/H2)         - 1:38 (101,918 pts.)
+40 Lines (9/H3)         - 1:32 ( 99,963 pts.)
+40 Lines (9/H4)         - 1:29 ( 55,332 pts.)
+40 Lines (9/H5)         - 1:27 ( 42,114 pts.)
+
+* Tetris: The Grandmaster (ARC)                           Arika, 1998
+---------------------------------------------------------------------
+Default                  - S4 / 8:32:78
+20G                      -
+Big Mode                 -
+Big Mode & 20G           -
+Reverse                  -
+Secret Grade (Default)   -
+Secret Grade (20G)       -
+
+* Sega Tetris (ARC)                                        Sega, 1999
+---------------------------------------------------------------------
+Default                  -
+
+* Tetris: The Grand Master 2 - The Absolute PLUS (ARC)    Arika, 2000
+---------------------------------------------------------------------
+Normal                   -
+Normal 20G               -
+Normal Big               -
+Master                   -
+T.A. Death               -
+Secret Grade (Master)    -
+
+* Tetris: The Grand Master 3 - Terror-Instinct (ARC)      Arika, 2005
+---------------------------------------------------------------------
+Easy    (Classic)       -
+Master  (Classic)       -
+Shirase (Classic)       -
+Easy    (World)         -
+Master  (World)         -
+Shirase (World)         -
+
+* Tetris Giant (ARC)                       Sega, 2009
+--------------------------------------------------------------------
+Line Challenge          - 103
+Score Challenge         -  14,302 ( 93 lines / 5 Tetris)
+
+************************** Fan-Made Games **************************
+
+* Texmaster 2009 (PC)                                           2008
+--------------------------------------------------------------------
+Normal                  -
+Special                 -
+Sudden                  -
+Special Ti              -
+Sudden Ti               -
+
+* Jstris (HTML5)                                                2014
+--------------------------------------------------------------------
+Sprint (  20L)          -
+Sprint (  40L)          - 1:08.942 ( 63 finesse / 1.48 pps)
+Sprint ( 100L)          -
+Sprint (1000L)          -
+Sprint / Invis. (  20L) -
+Sprint / Invis. (  40L) -
+Sprint / Invis. ( 100L) -
+Sprint / Invis. (1000L) -
+Cheese Race ( 10L)      -
+Cheese Race ( 18L)      -
+Cheese Race (100L)      -
