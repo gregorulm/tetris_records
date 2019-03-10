@@ -1,4 +1,4 @@
-Tetris: Personal Records of 12 + 2 Games
+Tetris: Personal Records of 16 + 2 Games
 =====================================================================
 
 ************************** Official Games ***************************
@@ -23,9 +23,19 @@ Super Tetris 3 (SNES/JP)                                    BPS, 1994
 ---------------------------------------------------------------------
 Endless (20)           - 999,999 (200 lines)
 
+V-Tetris (VBoy/JP)                                          BPS, 1996
+---------------------------------------------------------------------
+A-Type (19)            -
+
 Tetris Plus (GB/US)                                      Jaleco, 1996
 --------------------------------------------------------------------
 Classic (20)           - 999,999 (405 lines)
+
+Tetris S
+--
+
+Tetris X
+--
 
 Tetris DX (GBC/US)                                     Nintendo, 1998
 ---------------------------------------------------------------------
@@ -44,21 +54,24 @@ Default                -
 Master                 -
 T.A. Death             -
 
+Tetris w/Cardcaptor Sakura
+--
+
 * Tetris: The Grand Master 3 - Terror-Instinct (ARC)      Arika, 2005
 ---------------------------------------------------------------------
-Master  (Classic)      -
-Shirase (Classic)      -
+Master  (qual., C)     -
+Shirase (C)            -
 
 * Tetris Giant (ARC)                                       Sega, 2009
 ---------------------------------------------------------------------
-Score Challenge        -  14,302 ( 93 lines / 5 Tetris)
+Line Challenge         - 103 lines
+Score Challenge        -  31,742 ( 9 Tetris / 128 lines)
 
 
 ************************** Fan-Made Games ***************************
 
 * Texmaster 2009 (PC)                                            2008
 ---------------------------------------------------------------------
-Normal                 -
 Special                -
 Sudden                 -
 Special Ti             -

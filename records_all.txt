@@ -75,6 +75,10 @@ Super Tetris 3 (SNES/JP)                                    BPS, 1994
 Endless (20)            - 999,999 (200 lines)
 Endless (21)            - 999,999 (193 lines)
 
+V-Tetris (VBoy/JP)                                          BPS, 1996
+---------------------------------------------------------------------
+A-Type (19)            -
+
 Tetris Plus (GB/US)                                      Jaleco, 1996
 ---------------------------------------------------------------------
 Classic (12)            - 999,999 (405 lines)
@@ -91,7 +95,7 @@ Ultra    (9)            -   183,949 (  66 lines)
 40 Lines (9/H4)         - 1:29 ( 55,332 pts.)
 40 Lines (9/H5)         - 1:27 ( 42,114 pts.)
 
-* Tetris: The Grandmaster (ARC)                           Arika, 1998
+* Tetris: The Grand Master (ARC)                          Arika, 1998
 ---------------------------------------------------------------------
 Default                  - S4 / 8:32:78
 20G                      -
@@ -111,28 +115,35 @@ Normal                   -
 Normal 20G               -
 Normal Big               -
 Master                   -
+Master 20G               -
 T.A. Death               -
 Secret Grade (Master)    -
 
 * Tetris: The Grand Master 3 - Terror-Instinct (ARC)      Arika, 2005
 ---------------------------------------------------------------------
-Easy    (Classic)       -
-Master  (Classic)       -
-Shirase (Classic)       -
-Easy    (World)         -
-Master  (World)         -
-Shirase (World)         -
+Easy    (Classic)        -
+Master  (prov., C)       -
+Master  (qual., C)       -
+Shirase (Classic)        -
+Easy    (World)          -
+Master  (prov., W)       -
+Master  (qual., W)       -
+Shirase (World)          -
+Secret Grade (Master, C) -
 
-* Tetris Giant (ARC)                       Sega, 2009
+* Tetris Giant (ARC)                                      Sega, 2009
 --------------------------------------------------------------------
 Line Challenge          - 103
-Score Challenge         -  14,302 ( 93 lines / 5 Tetris)
+Score Challenge         -  31,742 ( 9 Tetris / 128 lines)
+
 
 ************************** Fan-Made Games **************************
 
 * Texmaster 2009 (PC)                                           2008
 --------------------------------------------------------------------
-Normal                  -
+Novice     (Classic)    - 5:32:48
+Normal     (Classic)    -
+Advance                 -
 Special                 -
 Sudden                  -
 Special Ti              -
