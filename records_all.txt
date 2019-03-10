@@ -85,6 +85,12 @@ Tetris Plus (GB/US)                                      Jaleco, 1996
 Classic (12)            - 999,999 (405 lines)
 Classic (20)            - 999,999 (405 lines)
 
+Tetris S
+--
+
+Tetris X
+--
+
 Tetris DX (GBC/US)                                     Nintendo, 1998
 ---------------------------------------------------------------------
 Marathon (9)            - 9,999,999 (3099 lines)
@@ -119,6 +125,9 @@ Master                   -
 Master 20G               -
 T.A. Death               -
 Secret Grade (Master)    -
+
+Tetris w/Cardcaptor Sakura
+--
 
 * Tetris: The Grand Master 3 - Terror-Instinct (ARC)      Arika, 2005
 ---------------------------------------------------------------------
