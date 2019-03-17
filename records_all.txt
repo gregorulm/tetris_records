@@ -85,7 +85,7 @@ Tetris Plus (GB/US)                                      Jaleco, 1996
 Classic (12)            - 999,999 (405 lines)
 Classic (20)            - 999,999 (405 lines)
 
-Tetris DX (GBC/US)                                     Nintendo, 1998
+Tetris DX (GBC/World)                                  Nintendo, 1998
 ---------------------------------------------------------------------
 Marathon (9)            - 9,999,999 (3099 lines)
 Ultra    (9)            -   183,949 (  66 lines)
