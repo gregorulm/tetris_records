@@ -1,4 +1,4 @@
-Tetris: Personal Records of 15 + 3 Games
+Tetris: Personal Records of 14 + 2 Games
 ========================================================================
 
 *************************** Official Games *****************************
@@ -51,7 +51,7 @@ T.A. Death             -
 
 Tetris with Cardcaptor Sakura Eternal Heart (PSX/JP)         Arika, 2000
 ------------------------------------------------------------------------
-Story (Easy)             - All / 04:02:90
+Story (Easy)             - All / 03:59:74
 Story (Normal)           - All / 16:55:07
 
 Tetris: The Grand Master 3 - Terror-Instinct (ARC)           Arika, 2005
@@ -64,13 +64,8 @@ Tetris Giant (ARC)                                            Sega, 2009
 Line Challenge         - 103 lines
 Score Challenge        -  31,742 ( 9 x Tetris / 128 lines)
 
-Tetris (PSP)                                                    EA, 2009
-------------------------------------------------------------------------
 
 *************************** Fan-Made Games *****************************
-
-Texmaster 2009 (PC)                                                 2008
-------------------------------------------------------------------------
 
 Jstris (HTML5)                                                      2014
 ------------------------------------------------------------------------
