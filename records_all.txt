@@ -1,7 +1,5 @@
-Tetris: Personal Records of 14 + 1 Games
+Tetris: Personal Records of 14 Games
 ========================================================================
-
-*************************** Official Games *****************************
 
 Tetris (GB/US)                                            Nintendo, 1989
 ------------------------------------------------------------------------
@@ -154,8 +152,8 @@ Secret Grade (Master)    -
 
 Tetris with Cardcaptor Sakura Eternal Heart (PSX/JP)         Arika, 2000
 ------------------------------------------------------------------------
-Story (Easy)             - All / 03:59:74
-Story (Normal)           - All / 08:24:43
+Story (Easy)             - All / 03:34:70
+Story (Normal)           - All / 07:57:62
 
 Tetris: The Grand Master 3 - Terror-Instinct (ARC)           Arika, 2005
 ------------------------------------------------------------------------
@@ -171,9 +169,3 @@ Tetris Giant (ARC)                                            Sega, 2009
 ------------------------------------------------------------------------
 Line Challenge          - 103
 Score Challenge         -  31,742 ( 9 x Tetris / 128 lines)
-
-
-*************************** Fan-Made Games *****************************
-
-Shiromino (PC)                                                      2018
-------------------------------------------------------------------------
