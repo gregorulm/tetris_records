@@ -12,7 +12,7 @@ B-Type (9♡/H1)          -  11,800
 B-Type (9♡/H2)          -  11,200
 B-Type (9♡/H3)          -  10,200
 B-Type (9♡/H4)          -  10,600
-B-Type (9♡/H5)          -
+B-Type (9♡/H5)          - /
 
 Tetris (NES/US)                                           Nintendo, 1989
 ------------------------------------------------------------------------
@@ -152,8 +152,58 @@ Secret Grade (Master)    -
 
 Tetris with Cardcaptor Sakura Eternal Heart (PSX/JP)         Arika, 2000
 ------------------------------------------------------------------------
-Story (Easy)             - All / 03:24:49
-Story (Normal)           - All / 07:57:62
+Story (Easy):
+. Fire		         - 00:02:11
+. Sword	                 - 00:02:44
+. Jump	                 - 00:04:79
+. Fly	                 - 00:11:74
+. Mirror	         - 00:04:49
+. Wind	                 - 00:10:33
+. Flower	         - 00:07:05
+. Eraser	         - 00:18:50
+. Earth	                 - 00:28:35
+. Shadow 	         - 00:12:73
+. Maze 	                 - 00:06:29
+. Illusion 	         - 00:13:89
+. Wood 	                 - 00:08:95
+. Thunder 	         - 00:09:92
+. Glow 	                 - 00:09:38
+. Shield 	         - 00:18:10
+. Water	                 - 00:05:12
+. Eriol	                 - 00:22:99
+. .................................
+. Total                  - 03:17:17
+. .................................
+Story (Normal):
+. Fire		         - 
+. Sword	                 - 
+. Jump	                 - 
+. Fly	                 - 
+. Mirror	         - 
+. Wind	                 - 
+. Flower	         - 
+. Eraser	         - 
+. Earth	                 - 
+. Shadow 	         - 
+. Maze 	                 - 
+. Illusion 	         - 
+. Wood 	                 - 
+. Thunder 	         - 
+. Glow 	                 - 
+. Shield 	         - 
+. Water	                 - 
+. Eriol	                 - 
+. .................................
+. Total                  - 07:57:62
+. .................................
+Battle Mode (Standard/Hard):
+. Sakura
+.. vs. Syaoran
+.. vs. Tomoyo
+Battle Mode (Survival/Hard):
+. Sakura
+.. vs. Syaoran
+.. vs. Tomoyo
 
 Tetris: The Grand Master 3 - Terror-Instinct (ARC)           Arika, 2005
 ------------------------------------------------------------------------
