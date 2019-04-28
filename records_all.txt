@@ -12,7 +12,7 @@ B-Type (9♡/H1)          -  11,800
 B-Type (9♡/H2)          -  11,200
 B-Type (9♡/H3)          -  10,200
 B-Type (9♡/H4)          -  10,600
-B-Type (9♡/H5)          - /
+B-Type (9♡/H5)          -       /
 
 Tetris (NES/US)                                           Nintendo, 1989
 ------------------------------------------------------------------------
@@ -155,24 +155,24 @@ Tetris with Cardcaptor Sakura Eternal Heart (PSX/JP)         Arika, 2000
 Story (Easy):
 . Fire		         - 00:02:11
 . Sword	                 - 00:02:44
-. Jump	                 - 00:04:79
-. Fly	                 - 00:11:74
+. Jump	                 - 00:03:92
+. Fly	                 - 00:11:05
 . Mirror	         - 00:04:49
 . Wind	                 - 00:10:33
 . Flower	         - 00:07:05
-. Eraser	         - 00:18:50
-. Earth	                 - 00:28:35
+. Eraser	         - 00:12:06
+. Earth	                 - 00:26:97
 . Shadow 	         - 00:12:73
-. Maze 	                 - 00:06:29
+. Maze 	                 - 00:05:39
 . Illusion 	         - 00:13:89
 . Wood 	                 - 00:08:95
 . Thunder 	         - 00:09:92
-. Glow 	                 - 00:09:38
+. Glow 	                 - 00:08:26
 . Shield 	         - 00:18:10
 . Water	                 - 00:05:12
-. Eriol	                 - 00:22:99
+. Eriol	                 - 00:14:11
 . .................................
-. Total                  - 03:17:17
+. Total                  - 02:56:89
 . .................................
 Story (Normal):
 . Fire		         - 
@@ -207,13 +207,15 @@ Battle Mode (Survival/Hard):
 
 Tetris: The Grand Master 3 - Terror-Instinct (ARC)           Arika, 2005
 ------------------------------------------------------------------------
-Easy    (C)              -
-Master  (prov., C)       -
-Master  (qual., C)       -
-Master & Big             -
-Shirase (Classic)        -
-Sakura                   -
-Secret Grade             -
+Classic Rule:
+. Easy    (C)              -
+. Master  (prov., C)       -
+. Master  (qual., C)       -
+. Master & Big             -
+. Shirase (Classic)        -
+. Sakura                   -
+. Secret Grade             -
+World Rule:
 
 Tetris Giant (ARC)                                            Sega, 2009
 ------------------------------------------------------------------------
