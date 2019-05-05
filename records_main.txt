@@ -35,7 +35,7 @@ Marathon (9)           - 9,999,999 (3099 lines)
 
 Tetris: The Grandmaster (ARC)                                Arika, 1998
 ------------------------------------------------------------------------
-Default                -  S8 / 15:35:08
+Default                -  S9 / 14:20:71
 20G                    - 999 / S9 / 14:13:88
 
 Tetris: The Grand Master 2 - The Absolute (ARC)              Arika, 2000
