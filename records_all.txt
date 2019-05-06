@@ -126,8 +126,7 @@ Tetris: The Grand Master (ARC)                               Arika, 1998
 Default                  -  S9 / 14:20:71
 20G                      - 999 / S9 / 14:13:88
 Big                      - 498 / S9 / 05:04:80
-Big & 20G                - /
-Secret Grade             - /
+Secret Grade (Default)   - /
 
 Tetris: The Grand Master 2 - The Absolute (ARC)              Arika, 2000
 ------------------------------------------------------------------------
@@ -136,12 +135,12 @@ Master                   -  S4 / 12:00:31
 
 Tetris: The Grand Master 2 - The Absolute PLUS (ARC)         Arika, 2000
 ------------------------------------------------------------------------
-Normal                   - /
-Master                   - /
+Normal                   - 207,630
+Master                   -   1 / 07:26:35
 Master & 20G             - /
-Master & Big             - /
-TGM+                     - /
-T.A. Death               - /
+Master & Big             - 225 /  4 / 03:34:76
+TGM+                     - 466 / 07:10:75
+T.A. Death               - 223 / -- / 02:28:26
 Secret Grade (Master)    - /
 
 Tetris with Cardcaptor Sakura Eternal Heart (PSX/JP)         Arika, 2000
@@ -200,7 +199,7 @@ Classic Rule:
 . Master & Big             - /
 . Shirase                  - /
 . Sakura                   - /
-. Secret Grade             - /
+. Secret Grade (Master)    - /
 World Rule:
 . Easy                     - /
 . Master  (provisional)    - /
@@ -208,7 +207,7 @@ World Rule:
 . Master & Big             - /
 . Shirase                  - /
 . Sakura                   - /
-. Secret Grade             - /
+. Secret Grade (Master)    - /
 
 Tetris Giant (ARC)                                            Sega, 2009
 ------------------------------------------------------------------------
