@@ -130,8 +130,8 @@ B-Type (9/H5)          - 30,000
 
 Tetris Plus (GB/US)                                         Jaleco, 1996
 ------------------------------------------------------------------------
-Classic (0)             - /
-Classic (4)             - /
+Classic (0)             - 999,999 (381 lines)
+Classic (4)             - 999,999 (376 lines)
 Classic (8)             - /
 Classic (12)            - 999,999 (333 lines)
 Classic (16)            - 999,999 (398 lines)
