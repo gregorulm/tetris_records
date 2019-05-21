@@ -132,10 +132,10 @@ Tetris Plus (GB/US)                                         Jaleco, 1996
 ------------------------------------------------------------------------
 Classic (0)             - 999,999 (381 lines)
 Classic (4)             - 999,999 (376 lines)
-Classic (8)             - /
+Classic (8)             - 999,999 (315 lines)
 Classic (12)            - 999,999 (333 lines)
-Classic (16)            - 999,999 (398 lines)
-Classic (20)            - 999,999 (405 lines)
+Classic (16)            - 999,999 (362 lines)
+Classic (20)            - 999,999 (348 lines)
 
 Tetris DX (GBC/World)                                     Nintendo, 1998
 ------------------------------------------------------------------------
