@@ -134,7 +134,7 @@ Classic (0)             - 999,999 (381 lines)
 Classic (4)             - 999,999 (376 lines)
 Classic (8)             - 999,999 (315 lines)
 Classic (12)            - 999,999 (333 lines)
-Classic (16)            - 999,999 (362 lines)
+Classic (16)            - 999,999 (327 lines)
 Classic (20)            - 999,999 (314 lines)
 
 Tetris DX (GBC/World)                                     Nintendo, 1998
@@ -173,7 +173,7 @@ Master                   -   1 / 07:26:35
 Master & 20G             - /
 Master & Big             - 225 /  4 / 03:34:76
 TGM+                     - 466 / 07:10:75
-T.A. Death               - 260 / -- / 02:38:83
+T.A. Death               - 322 / -- / 03:17:40
 Secret Grade (Master)    - /
 
 Tetris with Cardcaptor Sakura Eternal Heart (PSX/JP)         Arika, 2000
