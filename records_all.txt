@@ -172,6 +172,7 @@ Normal                   - 207,630
 Master                   -   1 / 07:26:35
 Master & 20G             - /
 Master & Big             - 225 /  4 / 03:34:76
+Master & Item            - /
 TGM+                     - 466 / 07:10:75
 T.A. Death               - 322 / -- / 03:17:40
 Secret Grade (Master)    - /
