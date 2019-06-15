@@ -2,15 +2,15 @@ Tetris: Personal Records
 ========================================================================
 
 Games (16):
-. Tetris (ARC)                                                Sega, 1988 *
-. Tetris (GB/US)                                          Nintendo, 1989 *
-. Tetris (NES/US)                                         Nintendo, 1989 *
+. Tetris (ARC)                                                Sega, 1988
+. Tetris (GB/World)                                       Nintendo, 1989
+. Tetris (NES/US)                                         Nintendo, 1989
 . Tetris 2 + Bombliss (NES/JP)                                 BPS, 1991 *
 . Super Tetris 2 + Bombliss (SNES/JP)                          BPS, 1992 *
 . Super Tetris 3 (SNES/JP)                                     BPS, 1994 *
-. V-Tetris (VBoy/JP)                                           BPS, 1996 *
-. Tetris Plus (GB/US)                                       Jaleco, 1996 *
-. Tetris DX (GBC/World)                                   Nintendo, 1998 *
+. V-Tetris (VB/JP)                                             BPS, 1996
+. Tetris Plus (GB/US)                                       Jaleco, 1996
+. Tetris DX (GBC/World)                                   Nintendo, 1998
 . Tetris: The Grand Master (ARC)                             Arika, 1998 *
 . Sega Tetris (ARC)                                           Sega, 1999 *
 . Tetris: The Grand Master 2 - The Absolute (ARC)            Arika, 2000 *
@@ -22,10 +22,9 @@ Games (16):
 
 Tetris (ARC)                                                  Sega, 1988
 ------------------------------------------------------------------------
-Easy                    - /
 Default                 - 104,627 ( 68 lines)
 
-Tetris (GB/US)                                            Nintendo, 1989
+Tetris (GB/World)                                         Nintendo, 1989
 ------------------------------------------------------------------------
 A-Type (9)              - 472,782 (18x lines)
 A-Type (9♡)             - 102,600 ( 83 lines)
@@ -41,8 +40,6 @@ B-Type (9♡/H5)          -  /
 Tetris (NES/US)                                           Nintendo, 1989
 ------------------------------------------------------------------------
 A-Type (9)              - 518,717 (190 lines)
-A-Type (18)             - /
-A-Type (19)             - /
 
 Tetris 2 + Bombliss (NES/JP)                                   BPS, 1991
 ------------------------------------------------------------------------
@@ -123,10 +120,9 @@ Endless (S7)            - /
 Endless (S8)            - /
 Endless (S9)            - /
 
-V-Tetris (VBoy/JP)                                             BPS, 1996
+V-Tetris (VB/JP)                                               BPS, 1996
 ------------------------------------------------------------------------
 A-Type (19)            - 9,999,999 (691 lines)
-B-Type (9/H5)          - 30,000
 
 Tetris Plus (GB/US)                                         Jaleco, 1996
 ------------------------------------------------------------------------
