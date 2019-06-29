@@ -1,4 +1,4 @@
-Tetris: Personal Records of 14 Games
+Tetris: Personal Records of 13 Games
 ========================================================================
 
 Tetris (GB/World)                                         Nintendo, 1989
@@ -59,8 +59,3 @@ Classic Rule:
 . Master  (provisional)    - /
 . Master  (qualified)      - /
 . Shirase                  - /
-
-Tetris Giant (ARC)                                            Sega, 2009
-------------------------------------------------------------------------
-Line Challenge         - 103 lines
-Score Challenge        -  31,742 ( 9 x Tetris / 128 lines)

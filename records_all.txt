@@ -1,7 +1,7 @@
 Tetris: Personal Records
 ========================================================================
 
-Games (14):
+Games (13):
 . Tetris (GB/World)                                       Nintendo, 1989
 . Tetris (NES/US)                                         Nintendo, 1989
 . Tetris 2 + Bombliss (NES/JP)                                 BPS, 1991 *
@@ -15,7 +15,6 @@ Games (14):
 . Tetris: The Grand Master 2 - The Absolute Plus (ARC)       Arika, 2000 *
 . Tetris with Cardcaptor Sakura Eternal Heart (PSX/JP)       Arika, 2000
 . Tetris: The Grand Master 3 - Terror-Instinct (ARC)         Arika, 2005 *
-. Tetris Giant (ARC)                                          Sega, 2009 *
 
 
 Tetris (GB/World)                                         Nintendo, 1989
@@ -228,8 +227,3 @@ World Rule:
 . Shirase                  - /
 . Sakura                   - /
 . Secret Grade (Master)    - /
-
-Tetris Giant (ARC)                                            Sega, 2009
-------------------------------------------------------------------------
-Line Challenge          - 103
-Score Challenge         -  31,742 ( 9 x Tetris / 128 lines)
