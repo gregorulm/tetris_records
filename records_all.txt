@@ -140,7 +140,7 @@ Ultra    (9)            -   183,949 (  66 lines)
 
 Tetris: The Grand Master (ARC)                               Arika, 1998
 ------------------------------------------------------------------------
-Default                  -  S9 / 14:20:71
+Default                  -  S9 / 13:01:38
 20G                      - 999 / S9  / 12:58:45
 Big                      - 498 / S9  / 05:04:80
 Monochrome               - 392 / S1  / 05:55:68
@@ -159,7 +159,7 @@ Master                   -   1 / 07:26:35
 Master & 20G             - /
 Master & Big             - 225 /  4 / 03:34:76
 Master & Item            - /
-TGM+                     - 466 / 07:10:75
+TGM+                     - 530 / 07:29:03
 T.A. Death               - 322 / -- / 03:17:40
 Secret Grade (Master)    - /
 
