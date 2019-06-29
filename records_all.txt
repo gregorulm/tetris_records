@@ -1,7 +1,7 @@
 Tetris: Personal Records
 ========================================================================
 
-Games (13):
+Games (12+1):
 . Tetris (GB/World)                                       Nintendo, 1989
 . Tetris (NES/US)                                         Nintendo, 1989
 . Tetris 2 + Bombliss (NES/JP)                                 BPS, 1991 *
@@ -13,8 +13,9 @@ Games (13):
 . Tetris: The Grand Master (ARC)                             Arika, 1998 *
 . Tetris: The Grand Master 2 - The Absolute (ARC)            Arika, 2000 *
 . Tetris: The Grand Master 2 - The Absolute Plus (ARC)       Arika, 2000 *
-. Tetris with Cardcaptor Sakura Eternal Heart (PSX/JP)       Arika, 2000
 . Tetris: The Grand Master 3 - Terror-Instinct (ARC)         Arika, 2005 *
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+. Tetris with Cardcaptor Sakura Eternal Heart (PSX/JP)       Arika, 2000
 
 
 Tetris (GB/World)                                         Nintendo, 1989
@@ -162,6 +163,25 @@ TGM+                     - 466 / 07:10:75
 T.A. Death               - 322 / -- / 03:17:40
 Secret Grade (Master)    - /
 
+Tetris: The Grand Master 3 - Terror-Instinct (ARC)           Arika, 2005
+------------------------------------------------------------------------
+Classic Rule:
+. Easy                     - /
+. Master  (provisional)    - /
+. Master  (qualified)      - /
+. Master & Big             - /
+. Shirase                  - /
+. Sakura                   - /
+. Secret Grade (Master)    - /
+World Rule:
+. Easy                     - /
+. Master  (provisional)    - /
+. Master  (qualified)      - /
+. Master & Big             - /
+. Shirase                  - /
+. Sakura                   - /
+. Secret Grade (Master)    - /
+
 Tetris with Cardcaptor Sakura Eternal Heart (PSX/JP)         Arika, 2000
 ------------------------------------------------------------------------
 Story (Easy):
@@ -208,22 +228,3 @@ Story (Normal):
 . .................................
 . Total                  - 06:59:83
 . .................................
-
-Tetris: The Grand Master 3 - Terror-Instinct (ARC)           Arika, 2005
-------------------------------------------------------------------------
-Classic Rule:
-. Easy                     - /
-. Master  (provisional)    - /
-. Master  (qualified)      - /
-. Master & Big             - /
-. Shirase                  - /
-. Sakura                   - /
-. Secret Grade (Master)    - /
-World Rule:
-. Easy                     - /
-. Master  (provisional)    - /
-. Master  (qualified)      - /
-. Master & Big             - /
-. Shirase                  - /
-. Sakura                   - /
-. Secret Grade (Master)    - /

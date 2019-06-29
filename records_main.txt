@@ -1,4 +1,4 @@
-Tetris: Personal Records of 13 Games
+Tetris: Personal Records of 12+1 Games
 ========================================================================
 
 Tetris (GB/World)                                         Nintendo, 1989
@@ -48,14 +48,14 @@ Master                 -   1 / 07:26:35
 TGM+                   - 466 / 07:10:75
 T.A. Death             - 322 / -- / 03:17:40
 
-Tetris with Cardcaptor Sakura Eternal Heart (PSX/JP)         Arika, 2000
-------------------------------------------------------------------------
-Story (Easy)           - All / 02:56:89
-Story (Normal)         - All / 06:59:83
-
 Tetris: The Grand Master 3 - Terror-Instinct (ARC)           Arika, 2005
 ------------------------------------------------------------------------
 Classic Rule:
 . Master  (provisional)    - /
 . Master  (qualified)      - /
 . Shirase                  - /
+
+Tetris with Cardcaptor Sakura Eternal Heart (PSX/JP)         Arika, 2000
+------------------------------------------------------------------------
+Story (Easy)           - All / 02:56:89
+Story (Normal)         - All / 06:59:83
