@@ -1,4 +1,4 @@
-Tetris: Personal Records of 15 Games
+Tetris: Personal Records of 14 Games
 ========================================================================
 
 Tetris (GB/World)                                         Nintendo, 1989
@@ -37,10 +37,6 @@ Tetris: The Grandmaster (ARC)                                Arika, 1998
 ------------------------------------------------------------------------
 Default                -  S9 / 14:20:71
 20G                    - 999 / S9  / 12:58:45
-
-Sega Tetris (ARC)                                             Sega, 1999
-------------------------------------------------------------------------
-Default                  - /
 
 Tetris: The Grand Master 2 - The Absolute (ARC)              Arika, 2000
 ------------------------------------------------------------------------

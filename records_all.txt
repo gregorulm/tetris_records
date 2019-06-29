@@ -1,7 +1,7 @@
 Tetris: Personal Records
 ========================================================================
 
-Games (15):
+Games (14):
 . Tetris (GB/World)                                       Nintendo, 1989
 . Tetris (NES/US)                                         Nintendo, 1989
 . Tetris 2 + Bombliss (NES/JP)                                 BPS, 1991 *
@@ -11,7 +11,6 @@ Games (15):
 . Tetris Plus (GB/US)                                       Jaleco, 1996
 . Tetris DX (GBC/World)                                   Nintendo, 1998
 . Tetris: The Grand Master (ARC)                             Arika, 1998 *
-. Sega Tetris (ARC)                                           Sega, 1999 *
 . Tetris: The Grand Master 2 - The Absolute (ARC)            Arika, 2000 *
 . Tetris: The Grand Master 2 - The Absolute Plus (ARC)       Arika, 2000 *
 . Tetris with Cardcaptor Sakura Eternal Heart (PSX/JP)       Arika, 2000
@@ -147,10 +146,6 @@ Big                      - 498 / S9  / 05:04:80
 Monochrome               - 392 / S1  / 05:55:68
 Reverse                  - /
 Secret Grade (Default)   -  S1 / 328 / 07:24:43
-
-Sega Tetris (ARC)                                             Sega, 1999
-------------------------------------------------------------------------
-Default                  - /
 
 Tetris: The Grand Master 2 - The Absolute (ARC)              Arika, 2000
 ------------------------------------------------------------------------
