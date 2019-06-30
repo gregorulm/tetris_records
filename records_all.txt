@@ -1,12 +1,11 @@
 Tetris: Personal Records
 ========================================================================
 
-Games (12+1):
 . Tetris (GB/World)                                       Nintendo, 1989
 . Tetris (NES/US)                                         Nintendo, 1989
-. Tetris 2 + Bombliss (NES/JP)                                 BPS, 1991 *
-. Super Tetris 2 + Bombliss (SNES/JP)                          BPS, 1992 *
-. Super Tetris 3 (SNES/JP)                                     BPS, 1994 *
+. Tetris 2 + Bombliss (NES/JP)                                 BPS, 1991
+. Super Tetris 2 + Bombliss (SNES/JP)                          BPS, 1992
+. Super Tetris 3 (SNES/JP)                                     BPS, 1994
 . V-Tetris (VB/JP)                                             BPS, 1996
 . Tetris Plus (GB/US)                                       Jaleco, 1996
 . Tetris DX (GBC/World)                                   Nintendo, 1998
@@ -140,7 +139,7 @@ Ultra    (9)            -   183,949 (  66 lines)
 
 Tetris: The Grand Master (ARC)                               Arika, 1998
 ------------------------------------------------------------------------
-Default                  -  S9 / 13:01:38
+Default                  -  GM / 13:12:28
 20G                      - 999 / S9  / 12:58:45
 Big                      - 498 / S9  / 05:04:80
 Monochrome               - 392 / S1  / 05:55:68

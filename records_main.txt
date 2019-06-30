@@ -1,4 +1,4 @@
-Tetris: Personal Records of 12+1 Games
+Tetris: Personal Records
 ========================================================================
 
 Tetris (GB/World)                                         Nintendo, 1989
@@ -35,7 +35,7 @@ Marathon (9)           - 9,999,999 (3099 lines)
 
 Tetris: The Grandmaster (ARC)                                Arika, 1998
 ------------------------------------------------------------------------
-Default                -  S9 / 14:20:71
+Default                -  GM / 13:12:28
 20G                    - 999 / S9  / 12:58:45
 
 Tetris: The Grand Master 2 - The Absolute (ARC)              Arika, 2000
@@ -45,7 +45,7 @@ Master                 -  S4 / 11:12:93
 Tetris: The Grand Master 2 - The Absolute PLUS (ARC)         Arika, 2000
 ------------------------------------------------------------------------
 Master                 -   1 / 07:26:35
-TGM+                   - 488 / 06:55:35
+TGM+                   - 530 / 07:29:03
 T.A. Death             - 322 / -- / 03:17:40
 
 Tetris: The Grand Master 3 - Terror-Instinct (ARC)           Arika, 2005
