@@ -4,13 +4,13 @@ Tetris: Personal Records
 Tetris: The Grandmaster (ARC)                                Arika, 1998
 ------------------------------------------------------------------------
 Default                  -  GM / 11:47:65
+20G                      -  GM / 11:45:05
 
 Tetris: The Grand Master 2 - The Absolute (ARC)              Arika, 2000
 ------------------------------------------------------------------------
-Normal                   - 300 / 262,832
 Master                   -  S6 / 10:59:71
+Master & 20G             - 845 / S3 / 09:39:98
 
 Tetris: The Grand Master 2 - The Absolute Plus (ARC)         Arika, 2000
 ------------------------------------------------------------------------
-Normal                   - 300 / 207,630
 Master                   -  S4 / 09:59:81
