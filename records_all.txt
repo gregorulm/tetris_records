@@ -144,29 +144,28 @@ Default                  -  GM / 11:47:65
 Big                      - 498 / S9  / 05:04:80
 Big & 20G                - /
 Monochrome               - 392 / S1  / 05:55:68
+Monochrome & 20G         - /
 Reverse                  - /
 Secret Grade (Default)   -  S1 / 328 / 07:24:43
 
 Tetris: The Grand Master 2 - The Absolute (ARC)              Arika, 2000
 ------------------------------------------------------------------------
 Normal                   - 300 / 262,832
-Master                   -  S6 / 10:59:71
+Master                   -  S6 / 10:31:25
 Master & 20G             - 845 / S3 / 09:39:98
-Master & Big             - 473 / S6 / 04:11:88
-Master & Big & 20G       - /
-Master & Item            - /
+Master & Big             - 636 / S9 / 05:20:66
+Master & Big & 20G       - 245 /  2 / 01:53:83
 Secret Grade (Master)    - /
 
 Tetris: The Grand Master 2 - The Absolute Plus (ARC)         Arika, 2000
 ------------------------------------------------------------------------
 Normal                   - 300 / 207,630
 Master                   -  S4 / 09:59:81
-Master & 20G             - /
-Master & Big             - 225 / 03:34:76
+Master & 20G             - 399 /  2 / 05:02:45
+Master & Big             - 225 /  4 / 03:34:76
 Master & Big & 20G       - /
-Master & Item            - /
-TGM+                     - 530 / 07:29:03
-TGM+   & Item            - /
+TGM+                     - 536 / 07:06:46
+TGM+ & 20G               - 216 / 02:38:61
 T.A. Death               - 350 / -- / 03:03:76
 Secret Grade (Master)    - /
 
