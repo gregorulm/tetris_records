@@ -142,9 +142,9 @@ Tetris: The Grand Master (ARC)                               Arika, 1998
 Default                  -  GM / 11:47:65
 20G                      -  GM / 11:45:05
 Big                      - 498 / S9  / 05:04:80
-Big & 20G                - /
+Big 20G                  - /
 Monochrome               - 392 / S1  / 05:55:68
-Monochrome & 20G         - /
+Monochrome 20G           - /
 Reverse                  - /
 Secret Grade (Default)   -  S1 / 328 / 07:24:43
 
@@ -152,41 +152,41 @@ Tetris: The Grand Master 2 - The Absolute (ARC)              Arika, 2000
 ------------------------------------------------------------------------
 Normal                   - 300 / 262,832
 Master                   -  S6 / 10:31:25
-Master & 20G             - 845 / S3 / 09:39:98
-Master & Big             - 636 / S9 / 05:20:66
-Master & Big & 20G       - 245 /  2 / 01:53:83
+Master 20G               - 845 / S3 / 09:39:98
+Master Big               - 636 / S9 / 05:20:66
+Master Big 20G           - 245 /  2 / 01:53:83
 Secret Grade (Master)    - /
 
 Tetris: The Grand Master 2 - The Absolute Plus (ARC)         Arika, 2000
 ------------------------------------------------------------------------
-Normal                   - 300 / 207,630
-Master                   -  S4 / 09:59:81
-Master & 20G             - 399 /  2 / 05:02:45
-Master & Big             - 225 /  4 / 03:34:76
-Master & Big & 20G       - /
-TGM+                     - 536 / 07:06:46
-TGM+ & 20G               - 216 / 02:38:61
+Normal                   - 300 / 224,411
+Master                   -  S4 / 08:51:56
+Master 20G               - 399 /  2 / 05:02:45
+Master Big               - 225 /  4 / 03:34:76
+Master Big 20G           - /
+TGM+                     - 635 / 08:04:73
+TGM+ 20G                 - 246 / 02:51:65
 T.A. Death               - 350 / -- / 03:03:76
 Secret Grade (Master)    - /
 
 Tetris: The Grand Master 3 - Terror-Instinct (ARC)           Arika, 2005
 ------------------------------------------------------------------------
 Classic Rule:
-. Easy                     - /
-. Master  (provisional)    - /
-. Master  (qualified)      - /
-. Master & Big             - /
-. Shirase                  - /
-. Sakura                   - /
-. Secret Grade (Master)    - /
+. Easy                   - /
+. Master (provisional)   - /
+. Master (qualified)     - /
+. Master Big             - /
+. Shirase                - /
+. Sakura                 - /
+. Secret Grade (Master)  - /
 World Rule:
-. Easy                     - /
-. Master  (provisional)    - /
-. Master  (qualified)      - /
-. Master & Big             - /
-. Shirase                  - /
-. Sakura                   - /
-. Secret Grade (Master)    - /
+. Easy                   - /
+. Master (provisional)   - /
+. Master (qualified)     - /
+. Master Big             - /
+. Shirase                - /
+. Sakura                 - /
+. Secret Grade (Master)  - /
 
 Tetris with Cardcaptor Sakura Eternal Heart (PSX/JP)         Arika, 2000
 ------------------------------------------------------------------------

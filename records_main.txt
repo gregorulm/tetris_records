@@ -8,11 +8,15 @@ Default                  -  GM / 11:47:65
 
 Tetris: The Grand Master 2 - The Absolute (ARC)              Arika, 2000
 ------------------------------------------------------------------------
+Normal                   - 300 / 262,832
 Master                   -  S6 / 10:31:25
-Master & 20G             - 845 / S3 / 09:39:98
+Master 20G               - 845 / S3 / 09:39:98
 
 Tetris: The Grand Master 2 - The Absolute Plus (ARC)         Arika, 2000
 ------------------------------------------------------------------------
-Master                   -  S4 / 09:59:81
-Master & 20G             - /
+Normal                   - 300 / 224,411
+Master                   -  S4 / 08:51:56
+Master 20G               - 399 /  2 / 05:02:45
+TGM+                     - 635 / 08:04:73
+TGM+ 20G                 - 246 / 02:51:65
 T.A. Death               - 350 / -- / 03:03:76
