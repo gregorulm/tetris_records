@@ -161,12 +161,12 @@ Tetris: The Grand Master 2 - The Absolute Plus (ARC)         Arika, 2000
 ------------------------------------------------------------------------
 Normal                   - 300 / 224,411
 Master                   -  S4 / 08:51:56
-Master 20G               - 399 /  2 / 05:02:45
+Master 20G               - 411 /  2 / 04:49:01
 Master Big               - 225 /  4 / 03:34:76
 Master Big 20G           - /
 TGM+                     - 635 / 08:04:73
-TGM+ 20G                 - 246 / 02:51:65
-T.A. Death               - 350 / -- / 03:03:76
+TGM+ 20G                 - 645 / 07:25:73
+T.A. Death               - 361 / -- / 02:56:90
 Secret Grade (Master)    - /
 
 Tetris: The Grand Master 3 - Terror-Instinct (ARC)           Arika, 2005
