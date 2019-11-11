@@ -3,25 +3,24 @@ Tetris: Personal Records
 
 Tetris: The Grandmaster (ARC)                                Arika, 1998
 ------------------------------------------------------------------------
-Default                  - GM / 11:47:65
-20G                      - GM / 11:45:05
+Default                  -  GM / 11:47:65
+20G                      -  GM / 11:45:05
 
 Tetris: The Grand Master 2 - The Absolute (ARC)              Arika, 2000
 ------------------------------------------------------------------------
-Normal                   - 300 / 262,832
 Master                   -  S6 / 10:31:25
-Master 20G               - 845 / S3 / 09:39:98
+Master 20G               - 965 / S5 / 10:10:70
 
 Tetris: The Grand Master 2 - The Absolute Plus (ARC)         Arika, 2000
 ------------------------------------------------------------------------
-Normal                   - 300 / 224,411
 Master                   -  S4 / 08:51:56
-Master 20G               - 411 /  2 / 04:49:01
+Master 20G               - 920 / S5 / 09:48:08
 TGM+                     - 635 / 08:04:73
 TGM+ 20G                 - 645 / 07:25:73
 T.A. Death               - 361 / -- / 02:56:90
 
-Tetris with Cardcaptor Sakura Eternal Heart (PSX/JP)         Arika, 2000
+Tetris: The Grand Master 3 - Terror-Instinct (ARC)           Arika, 2005
 ------------------------------------------------------------------------
-Story (Easy)             - All / 02:56:89
-Story (Normal)           - All / 06:59:83
+Classic Rule:
+. Master                 -  S3 / 06:26:08
+. Shirase                - 151 / S1 / 00:53:60
