@@ -24,3 +24,16 @@ Tetris: The Grand Master 3 - Terror-Instinct (ARC)           Arika, 2005
 Classic Rule:
 . Master                 -  S3 / 06:26:08
 . Shirase                - 151 / S1 / 00:53:60
+
+Texmaster 2009 (PC)                                                 2008
+------------------------------------------------------------------------
+Classic Rule:
+. Normal                 -  GM / 12:47:16
+. Advance                - /
+. Special                - /
+. Sudden                 - /
+
+Shiromino (PC)                                                      2017
+------------------------------------------------------------------------
+. G1 20G                 -  S9 / 11:57:95
+. G2 Death               - /
