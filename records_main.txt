@@ -5,35 +5,47 @@ Tetris: The Grandmaster (ARC)                                Arika, 1998
 ------------------------------------------------------------------------
 Default                  -  GM / 11:47:65
 20G                      -  GM / 11:45:05
+Monochrome               -  GM / 12:16:43
 
 Tetris: The Grand Master 2 - The Absolute (ARC)              Arika, 2000
 ------------------------------------------------------------------------
+Normal                   - 300 / 262,832
 Master                   -  S6 / 10:31:25
-Master 20G               - 965 / S5 / 10:10:70
 
 Tetris: The Grand Master 2 - The Absolute Plus (ARC)         Arika, 2000
 ------------------------------------------------------------------------
+Normal                   - 300 / 224,411
 Master                   -  S4 / 08:51:56
-Master 20G               - 920 / S5 / 09:48:08
 TGM+                     - 635 / 08:04:73
-TGM+ 20G                 - 645 / 07:25:73
 T.A. Death               - 361 / -- / 02:56:90
+Secret Grade (Master)    - /
 
 Tetris: The Grand Master 3 - Terror-Instinct (ARC)           Arika, 2005
 ------------------------------------------------------------------------
 Classic Rule:
+. Easy                   - /
 . Master                 -  S3 / 06:26:08
+. Sakura                 - /
 . Shirase                - 151 / S1 / 00:53:60
+. Secret Grade (Master)  - /
+World Rule:
+. Easy                   - /
+. Master                 - /
+. Master Big             - /
+. Shirase                - /
+. Sakura                 - /
+. Secret Grade (Master)  - /
 
 Texmaster 2009 (PC)                                                 2008
 ------------------------------------------------------------------------
 Classic Rule:
-. Normal                 -  GM / 12:47:16
-. Advance                - /
+. Novice                 - 300 / 309,482
+. Normal                 -  GM / 11:58:53
+. Advance                - 892 / 11:09:60
 . Special                - /
 . Sudden                 - /
-
-Shiromino (PC)                                                      2017
-------------------------------------------------------------------------
-. G1 20G                 -  S9 / 11:57:95
-. G2 Death               - /
+. Special Ti             - /
+. Sudden Ti              - /
+World Rule:
+. Special Ti             - /
+. Sudden Ti              - /
