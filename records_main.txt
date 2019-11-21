@@ -42,7 +42,7 @@ Classic Rule:
 . Novice                 - 300 / 309,482
 . Normal                 -  GM / 11:58:53
 . Advance                - 892 / 11:09:60
-. Special                - /
+. Special                -  S6 / 999 / 11:05:81
 . Sudden                 - /
 . Special Ti             - /
 . Sudden Ti              - /
