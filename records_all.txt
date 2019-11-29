@@ -242,7 +242,7 @@ Classic Rule:
 . Normal                 -  GM / 11:58:53
 . Advance                - 893 / 11:18:23
 . Special                -  S6 / 999 / 11:05:81
-. Sudden                 -  -- / 311 / 02:46:65
+. Sudden                 -  -- / 399 / 03:22:78
 . Special Ti             -  S1 / 643 / 07:22:73
 . Sudden Ti              -  S1 / 148 / 01:14:33
 World Rule:
@@ -257,8 +257,8 @@ World Rule:
 Shiromino (PC)                                                      2017
 ------------------------------------------------------------------------
 . G1 Master              - /
-. G1 20G                 - S9 / 999 / 11:57:95
+. G1 20G                 -  S9 / 999 / 11:57:95
 . G2 Master              - /
 . G2 Death               - /
 . G3 Terror              - /
-. Big Master             - /
+. Big Master             - 346 /  2 / 03:52:20
