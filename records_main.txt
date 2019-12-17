@@ -1,7 +1,7 @@
 Tetris: Personal Records
 ========================================================================
 
-Tetris: The Grandmaster (ARC)                                Arika, 1998
+Tetris: The Grand Master (ARC)                                Arika, 1998
 ------------------------------------------------------------------------
 Default                  -  GM / 11:47:65
 20G                      -  GM / 11:45:05
