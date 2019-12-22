@@ -1,17 +1,21 @@
 Tetris: Personal Records
 ========================================================================
 
-Tetris: The Grand Master (ARC)                                Arika, 1998
+Tetris: The Grand Master (ARC)                               Arika, 1998
 ------------------------------------------------------------------------
 Default                  -  GM / 11:47:65
 20G                      -  GM / 11:45:05
 Monochrome               -  GM / 12:16:43
+Big                      - 618 /  S9 / 05:35:55
 Secret Grade (Default)   -  S1 / 328 / 07:24:43
 
 Tetris: The Grand Master 2 - The Absolute (ARC)              Arika, 2000
 ------------------------------------------------------------------------
 Normal                   - 300 /  262,832
-Master                   -  S6 / 10:24:75
+Master                   -  S8 / 09:46:68
+Master (fastest)         - 10:22:45 / S8
+Master 20G               - 998 / S6 / 10:11:30
+Master Big               - 636 / S9 / 05:20:66
 Secret Grade (Master)    -  S1 / 04:13:81
 
 Tetris: The Grand Master 2 - The Absolute Plus (ARC)         Arika, 2000
@@ -19,7 +23,7 @@ Tetris: The Grand Master 2 - The Absolute Plus (ARC)         Arika, 2000
 Normal                   - 300 /  224,411
 Master                   -  S4 / 08:51:56
 TGM+                     - 635 / 08:04:73
-T.A. Death               - 361 / -- / 02:56:90
+T.A. Death               - 372 / -- / 03:02:75
 Secret Grade (Master)    -  S1 / 03:32:18
 
 Tetris: The Grand Master 3 - Terror-Instinct (ARC)           Arika, 2005
