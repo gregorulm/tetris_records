@@ -11,7 +11,7 @@ Secret Grade (Default)   -  S1 / 328 / 07:24:43
 
 Tetris: The Grand Master 2 - The Absolute (ARC)              Arika, 2000
 ------------------------------------------------------------------------
-Normal                   - 300 / 287,007
+Normal                   - 300 / 295,545
 Master                   -  S8 / 09:46:68
 Master 20G               - 998 / S6 / 10:11:30
 Master Big               - 636 / S9 / 05:20:66
@@ -19,8 +19,8 @@ Secret Grade (Master)    -  S1 / 04:13:81
 
 Tetris: The Grand Master 2 - The Absolute Plus (ARC)         Arika, 2000
 ------------------------------------------------------------------------
-Normal                   - 300 /  224,411
-Master                   -  S4 / 08:51:56
+Normal                   - 300 / 312,673
+Master                   -  S5 / 08:56:28
 TGM+                     - 635 / 08:04:73
 T.A. Death               - 372 / -- / 03:02:75
 Secret Grade (Master)    -  S1 / 03:32:18
@@ -33,12 +33,6 @@ Classic Rule:
 . Master                 -  S5 / 655  / 06:49:96
 . Shirase                - 151 /  S1  / 00:53:60
 . Secret Grade (Master)  -   1 / 02:50:01
-World Rule:
-. Easy                   - /
-. Sakura                 - /
-. Master                 - /
-. Shirase                - /
-. Secret Grade (Master)  - /
 
 Texmaster 2009 (PC)                                                 2008
 ------------------------------------------------------------------------
@@ -46,7 +40,7 @@ Classic Rule:
 . Novice                 - 300 /  353,161
 . Normal                 -  GM / 11:34:13
 . Advance                - 999 / 12:06:66
-. Special                -  S6 / 999 / 11:05:81
-. Sudden                 -  -- / 399 / 03:22:78
+. Special                -  S9 / 970 / 10:14:05
+. Sudden                 -  -- / 410 / 03:18:11
 . Special Ti             -  S1 / 643 / 07:22:73
 . Sudden Ti              -  S1 / 148 / 01:14:33
