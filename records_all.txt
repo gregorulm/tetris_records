@@ -165,15 +165,15 @@ Secret Grade (Master)    -  S1 / 04:13:81
 Tetris: The Grand Master 2 - The Absolute Plus (ARC)         Arika, 2000
 ------------------------------------------------------------------------
 Normal                   - 300 / 312,673
-Normal 20G               - 300 / 243,250
-Master                   -  S5 / 08:56:28
+Normal 20G               - 300 / 265,345
+Master                   -  S6 / 09:41:30
 Master (fastest)         - /
 Master 20G               - 920 / S5 / 09:48:08
 Master Big               - 225 /  4 / 03:34:76
 Master Big 20G           - /
 TGM+                     - 635 / 08:04:73
 TGM+ 20G                 - 645 / 07:25:73
-T.A. Death               - 372 / -- / 03:02:75
+T.A. Death               - 406 / -- / 03:27:30
 Secret Grade (Master)    -  S1 / 03:32:18
 
 Tetris: The Grand Master 3 - Terror-Instinct (ARC)           Arika, 2005
