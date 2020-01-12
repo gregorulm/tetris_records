@@ -4,8 +4,10 @@ Tetris: Personal Records
 Tetris: The Grand Master (ARC)                               Arika, 1998
 ------------------------------------------------------------------------
 Default                  -  GM / 11:47:65
-20G                      -  GM / 11:33:60
+20G                      -  GM / 11:30:86
 Monochrome               -  GM / 12:16:43
+Monochrome 20G           - /
+Reverse                  - /
 Big                      - 618 / S9 / 05:35:55
 Secret Grade (Default)   -  S1 / 07:24:43
 
