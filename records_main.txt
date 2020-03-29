@@ -26,5 +26,5 @@ T.A. Death               - 406 / -- / 03:27:30
 Tetris: The Grand Master 3 - Terror-Instinct (ARC)           Arika, 2005
 ------------------------------------------------------------------------
 Classic Rule:
-. Master                 -  S5 / 655  / 06:49:96
-. Shirase                - 151 / S1   / 00:53:60
+. Master                 -  S5 / 655 / 06:49:96
+. Shirase                - 151 / S1  / 00:53:60
