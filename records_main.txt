@@ -1,30 +1,49 @@
 Tetris: Personal Records
 ========================================================================
 
-Shiromino (PC)                                                      2017
-------------------------------------------------------------------------
-G1 Master                -  GM / 11:04:56
-G1 20G                   -  GM / 10:38:33
-G2 Master                -  S9 / 999 / 09:59:36
-G2 Death                 - 416 / --  / 03:07:55
-
 Tetris: The Grand Master (ARC)                               Arika, 1998
 ------------------------------------------------------------------------
 Default                  -  GM / 11:40:21
 20G                      -  GM / 11:06:20
+Big                      - 618 / S9 / 05:35:55
+Big 20G                  - 538 / S9 / 04:36:25
+Monochrome               -  GM / 12:16:43
+Monochrome 20G           -  GM / 11:42:26
+Reverse                  - 354 /  S1 / 06:33:81
+Reverse 20G              - /
+Secret Grade (Default)   -  S1 / 07:24:43
 
 Tetris: The Grand Master 2 - The Absolute (ARC)              Arika, 2000
 ------------------------------------------------------------------------
+Normal                   - 300 / 295,545
+Normal 20G               - 300 / 226,631
 Master                   -  S8 / 09:46:68 (green line)
 Master 20G               - 999 / S6 / 10:25:51
+Master Big               - 636 / S9 / 05:20:66
+Master Big 20G           - 263 /  1 / 01:58:83
+Secret Grade (Master)    -  S1 / 04:13:81
 
 Tetris: The Grand Master 2 - The Absolute Plus (ARC)         Arika, 2000
 ------------------------------------------------------------------------
+Normal                   - 300 / 312,673
+Normal 20G               - 300 / 265,345
 Master                   -  S6 / 10:38:98 (green line)
+Master 20G               - 920 / S5 / 09:48:08
+Master Big               - 347 /  2 / 04:11:68
+Master Big 20G           - /
+Master Item              - /
+Master Item 20G          - /
+TGM+                     - 635 / 08:04:73
+TGM+ 20G                 - 645 / 07:25:73
 T.A. Death               - 406 / -- / 03:27:30
+Secret Grade (Master)    -  S1 / 03:32:18
 
 Tetris: The Grand Master 3 - Terror-Instinct (ARC)           Arika, 2005
 ------------------------------------------------------------------------
 Classic Rule:
-. Master                 -  S5 / 655 / 06:49:96
-. Shirase                - 151 / S1  / 00:53:60
+. Easy                   - 200 / H266
+. Sakura                 -  10 / 100% / 02:56:75
+. Master                 -  S5 / 655  / 06:49:96
+. Master Big             - /
+. Shirase                - 151 / S1   / 00:53:60
+. Secret Grade (Master)  -   1 / 02:50:01
