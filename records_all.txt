@@ -141,7 +141,7 @@ Ultra    (9)            -   183,949 (  66 lines)
 
 Tetris: The Grand Master (ARC)                               Arika, 1998
 ------------------------------------------------------------------------
-Default                  -  GM / 11:40:21
+Default                  -  GM / 11:21:30
 20G                      -  GM / 11:06:20
 Monochrome               -  GM / 12:16:43
 Monochrome 20G           -  GM / 11:42:26
