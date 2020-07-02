@@ -171,14 +171,14 @@ Normal                   - 300 / 320,241
 Normal 20G               - 300 / 268,091
 Master                   -  S6 / 10:38:98 [green line]
 Master (fastest)         - 10:38:98 / S6
-Master 20G               - 920 / S5 / 09:48:08
-Master 20G (fastest)     - /
+Master 20G               - 999 / S6 / 09:45:81
+Master 20G (fastest)     - 999 / S6 / 09:45:81
 Master Item              - 624 /  1 / 09:03:81
 Master Item 20G          - 359 /  3 / 04:54:28
 Master Big               - 420 /  1 / 05:13:10
 Master Big 20G           - 217 /  3 / 02:38:16
-TGM+                     - 719 / 09:14:18
-TGM+ 20G                 - 645 / 07:25:73
+TGM+                     - 966 / 11:30:85
+TGM+ 20G                 - 779 / 08:28:56
 TGM+ Item                - 443 / 06:54:11
 TGM+ Item 20G            - 506 / 06:45:08
 T.A. Death               - 406 / -- / 03:27:30
