@@ -1,7 +1,6 @@
 Tetris: Personal Records
 ========================================================================
 
-
 Tetris: The Grand Master (ARC)                              Arika, 1998
 -----------------------------------------------------------------------
 Master                    999 / GM / 11:21:30
@@ -9,7 +8,13 @@ Master                    999 / GM / 11:21:30
 Master 20G                999 / GM / 11:06:20
 Master Mono               999 / GM / 12:16:43
 Master Mono 20G           999 / GM / 11:42:26
-
+Master Big                618 / S9 / 05:35:55
+Master Big 20G            538 / S9 / 04:36:25
+Master Reverse            354 / S1 / 06:33:81
+Master Reverse 20G         93 /  9 / 01:38:15
+Master (Score)            999 / -- /  177,172
+Master (Score) 20G        999 / -- /  168,961
+Master (Secret Grade)     328 / S1 / 07:24:43
 
 Tetris: The Grand Master 2 - The Absolute (ARC)             Arika, 2000
 -----------------------------------------------------------------------
@@ -18,19 +23,28 @@ Master                    999 / S8 / 09:46:68
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Normal 20G                300 / -- /  232,494
 Master 20G                999 / S7 / 09:48:41
+Master Item               942 / S4 / 12:06:16
+Master Item 20G           499 /  2 / 06:43:60
+Master Big                636 / S9 / 05:20:66
+Master Big 20G            377 / S3 / 03:00:18
 Master     (fastest)      999 / S8 / 10:22:45
 Master 20G (fastest)      999 / S7 / 09:48:41
-
+Master (Secret Grade)     203 / S1 / 04:13:81
 
 Tetris: The Grand Master 2 - The Absolute Plus (ARC)        Arika, 2000
 -----------------------------------------------------------------------
-Normal                    300 / -- /  320,241
+Normal                    300 / -- /  324,679
 Master                    999 / S6 / 10:38:98 [green line]
 TGM+                      966 / -- / 11:30:85
-T.A. Death                406 / -- / 03:27:30
+T.A. Death                431 / -- / 03:24:86
+Doubles                   /
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Normal 20G                300 / -- /  268,091
 Master 20G                999 / S6 / 09:45:81
 TGM+   20G                779 / -- / 08:28:56
+Master Big                420 /  1 / 05:13:10
+Master Item               624 /  1 / 09:03:81
 Master     (fastest)      999 / S6 / 10:38:98
 Master 20G (fastest)      999 / S6 / 09:45:81
+Master (Secret Grade)     297 / S1 / 03:32:18  
+T.A. Death (Series of 5)  1,530

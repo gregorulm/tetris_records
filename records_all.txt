@@ -148,8 +148,10 @@ Monochrome 20G           -  GM / 11:42:26
 Big                      - 618 / S9 / 05:35:55
 Big 20G                  - 538 / S9 / 04:36:25
 Reverse                  - 354 / S1 / 06:33:81
-Reverse 20G              - /
-Secret Grade (Default)   -  S1 / 328 / 07:24:43
+Reverse 20G              -  93 /  9 / 01:38:15
+Master (Score)           - 999 / -- /  177,172
+Master (Score) 20G       - 999 / -- /  168,961
+Secret Grade (Default)   - 328 / S1 / 07:24:43
 
 Tetris: The Grand Master 2 - The Absolute (ARC)              Arika, 2000
 ------------------------------------------------------------------------
@@ -163,11 +165,11 @@ Master Item              - 942 / S4 / 12:06:16
 Master Item 20G          - 499 /  2 / 06:43:60
 Master Big               - 636 / S9 / 05:20:66
 Master Big 20G           - 377 / S3 / 03:00:18
-Secret Grade (Master)    -  S1 / 04:13:81
+Secret Grade (Master)    - 203 / S1 / 04:13:81
 
 Tetris: The Grand Master 2 - The Absolute Plus (ARC)         Arika, 2000
 ------------------------------------------------------------------------
-Normal                   - 300 / 320,241
+Normal                   - 300 / 324,679
 Normal 20G               - 300 / 268,091
 Master                   -  S6 / 10:38:98 [green line]
 Master (fastest)         - 10:38:98 / S6
@@ -181,9 +183,10 @@ TGM+                     - 966 / 11:30:85
 TGM+ 20G                 - 779 / 08:28:56
 TGM+ Item                - 443 / 06:54:11
 TGM+ Item 20G            - 506 / 06:45:08
-T.A. Death               - 406 / -- / 03:27:30
-Secret Grade (Master)    -  S1 / 03:32:18
+T.A. Death               - 431 / -- / 03:24:86
+Secret Grade (Master)    -  S1 / 297 / 03:32:18
 Secret Grade (Death)     - /
+T.A. Death (Series of 5) - 1,530
 
 Tetris: The Grand Master 3 - Terror-Instinct (ARC)           Arika, 2005
 ------------------------------------------------------------------------
