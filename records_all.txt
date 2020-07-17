@@ -183,10 +183,10 @@ TGM+                     - 966 / 11:30:85
 TGM+ 20G                 - 779 / 08:28:56
 TGM+ Item                - 443 / 06:54:11
 TGM+ Item 20G            - 506 / 06:45:08
-T.A. Death               - 431 / -- / 03:24:86
+T.A. Death               - 462 / -- / 03:27:85
 Secret Grade (Master)    -  S1 / 297 / 03:32:18
 Secret Grade (Death)     - /
-T.A. Death (Series of 5) - 1,530
+T.A. Death (Series of 5) - 1,847
 
 Tetris: The Grand Master 3 - Terror-Instinct (ARC)           Arika, 2005
 ------------------------------------------------------------------------
