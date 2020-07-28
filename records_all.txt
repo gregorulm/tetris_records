@@ -12,271 +12,272 @@ Tetris: Personal Records
 . Tetris: The Grand Master (ARC)                             Arika, 1998
 . Tetris: The Grand Master 2 - The Absolute (ARC)            Arika, 2000
 . Tetris: The Grand Master 2 - The Absolute Plus (ARC)       Arika, 2000
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 . Tetris: The Grand Master 3 - Terror-Instinct (ARC)         Arika, 2005
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 . Tetris with Cardcaptor Sakura Eternal Heart (PSX/JP)       Arika, 2000
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 . Texmaster 2009 (PC)                                               2008
 . Shiromino (PC)                                                    2017
 
 Tetris (GB/World)                                         Nintendo, 1989
 ------------------------------------------------------------------------
-A-Type (9)              - 472,782 (18x lines)
-A-Type (9♡)             - 102,600 ( 83 lines)
-B-Type (9/H0)           -  84,411
-B-Type (9/H5)           -  21,101
-B-Type (9♡/H0)          -  11,400
-B-Type (9♡/H1)          -  11,800
-B-Type (9♡/H2)          -  11,200
-B-Type (9♡/H3)          -  10,200
-B-Type (9♡/H4)          -  10,600
-B-Type (9♡/H5)          -  /
+A-Type (9)                472,782 (18x lines)
+A-Type (9♡)               102,600 ( 83 lines)
+B-Type (9/H0)              84,411
+B-Type (9/H5)              21,101
+B-Type (9♡/H0)             11,400
+B-Type (9♡/H1)             11,800
+B-Type (9♡/H2)             11,200
+B-Type (9♡/H3)             10,200
+B-Type (9♡/H4)             10,600
+B-Type (9♡/H5)             /
 
 Tetris (NES/US)                                           Nintendo, 1989
 ------------------------------------------------------------------------
-A-Type (9)              - 518,717 (190 lines)
+A-Type (9)                518,717 (190 lines)
 
 Tetris 2 + Bombliss (NES/JP)                                   BPS, 1991
 ------------------------------------------------------------------------
-A-Type (20)             - 999,999 (361 lines)
-A-Type (21)             - 999,999 (348 lines)
-A-Type (22)             - 999,999 (301 lines)
-A-Type (23)             - 999,999 (262 lines)
-A-Type (24)             - 813,160 (254 lines)
-A-Type (25)             - /
-A-Type (26)             - /
-A-Type (27)             - /
-A-Type (28)             - /
-A-Type (29)             - /
+A-Type (20)               999,999 (361 lines)
+A-Type (21)               999,999 (348 lines)
+A-Type (22)               999,999 (301 lines)
+A-Type (23)               999,999 (262 lines)
+A-Type (24)               813,160 (254 lines)
+A-Type (25)               /
+A-Type (26)               /
+A-Type (27)               /
+A-Type (28)               /
+A-Type (29)               /
 
 Super Tetris 2 + Bombliss (SNES/JP)                            BPS, 1992
 ------------------------------------------------------------------------
-A-Type (0)              - 999,999 (354 lines)
-A-Type (1)              - 999,999 (295 lines)
-A-Type (2)              - 999,999 (337 lines)
-A-Type (3)              - 999,999 (295 lines)
-A-Type (4)              - 999,999 (323 lines)
-A-Type (5)              - 999,999 (297 lines)
-A-Type (6)              - 999,999 (315 lines)
-A-Type (7)              - 999,999 (316 lines)
-A-Type (8)              - 999,999 (285 lines)
-A-Type (9)              - 999,999 (268 lines)
-A-Type (10)             - 999,999 (276 lines)
-A-Type (11)             - 999,999 (268 lines)
-A-Type (12)             - 999,999 (268 lines)
-A-Type (13)             - 999,999 (261 lines)
-A-Type (14)             - 999,999 (255 lines)
-A-Type (15)             - 999,999 (232 lines)
-A-Type (16)             - 999,999 (220 lines)
-A-Type (17)             - 999,999 (224 lines)
-A-Type (18)             - 999,999 (220 lines)
-A-Type (19)             - 999,999 (213 lines)
-A-Type (20)             - 999,999 (204 lines)
-A-Type (21)             - 999,999 (198 lines)
-A-Type (22)             - 999,999 (178 lines)
-A-Type (23)             - 999,999 (174 lines)
-A-Type (24)             - 999,999 (171 lines)
-A-Type (25)             - 999,999 (154 lines)
-A-Type (26)             - 999,999 (150 lines)
-A-Type (27)             - 999,999 (152 lines)
-A-Type (28)             - 999,999 (147 lines)
-A-Type (29)             - 999,999 (142 lines)
-A-Type (SP0)            - 999,999 (138 lines)
-A-Type (SP1)            - 999,999 (144 lines)
-A-Type (SP2)            - 999,999 (147 lines)
-A-Type (SP3)            - 999,999 (151 lines)
-A-Type (SP4)            - 999,999 (144 lines)
-A-Type (SP5)            - 999,999 (121 lines)
-A-Type (SP6)            - 999,999 (154 lines)
-A-Type (SP7)            - 999,999 (174 lines)
-A-Type (SP8)            - 999,999 (131 lines)
-A-Type (SP9)            - 999,999 (137 lines)
+A-Type (0)                999,999 (354 lines)
+A-Type (1)                999,999 (295 lines)
+A-Type (2)                999,999 (337 lines)
+A-Type (3)                999,999 (295 lines)
+A-Type (4)                999,999 (323 lines)
+A-Type (5)                999,999 (297 lines)
+A-Type (6)                999,999 (315 lines)
+A-Type (7)                999,999 (316 lines)
+A-Type (8)                999,999 (285 lines)
+A-Type (9)                999,999 (268 lines)
+A-Type (10)               999,999 (276 lines)
+A-Type (11)               999,999 (268 lines)
+A-Type (12)               999,999 (268 lines)
+A-Type (13)               999,999 (261 lines)
+A-Type (14)               999,999 (255 lines)
+A-Type (15)               999,999 (232 lines)
+A-Type (16)               999,999 (220 lines)
+A-Type (17)               999,999 (224 lines)
+A-Type (18)               999,999 (220 lines)
+A-Type (19)               999,999 (213 lines)
+A-Type (20)               999,999 (204 lines)
+A-Type (21)               999,999 (198 lines)
+A-Type (22)               999,999 (178 lines)
+A-Type (23)               999,999 (174 lines)
+A-Type (24)               999,999 (171 lines)
+A-Type (25)               999,999 (154 lines)
+A-Type (26)               999,999 (150 lines)
+A-Type (27)               999,999 (152 lines)
+A-Type (28)               999,999 (147 lines)
+A-Type (29)               999,999 (142 lines)
+A-Type (SP0)              999,999 (138 lines)
+A-Type (SP1)              999,999 (144 lines)
+A-Type (SP2)              999,999 (147 lines)
+A-Type (SP3)              999,999 (151 lines)
+A-Type (SP4)              999,999 (144 lines)
+A-Type (SP5)              999,999 (121 lines)
+A-Type (SP6)              999,999 (154 lines)
+A-Type (SP7)              999,999 (174 lines)
+A-Type (SP8)              999,999 (131 lines)
+A-Type (SP9)              999,999 (137 lines)
 
 Super Tetris 3 (SNES/JP)                                       BPS, 1994
 ------------------------------------------------------------------------
-Endless (20)            - 999,999 (200 lines)
-Endless (21)            - 999,999 (193 lines)
-Endless (22)            - /
-Endless (23)            - /
-Endless (24)            - /
-Endless (25)            - /
-Endless (26)            - /
-Endless (27)            - /
-Endless (28)            - /
-Endless (29)            - /
-Endless (S0)            - /
-Endless (S1)            - /
-Endless (S2)            - /
-Endless (S3)            - /
-Endless (S4)            - /
-Endless (S5)            - /
-Endless (S6)            - /
-Endless (S7)            - /
-Endless (S8)            - /
-Endless (S9)            - /
+Endless (20)              999,999 (200 lines)
+Endless (21)              999,999 (193 lines)
+Endless (22)              /
+Endless (23)              /
+Endless (24)              /
+Endless (25)              /
+Endless (26)              /
+Endless (27)              /
+Endless (28)              /
+Endless (29)              /
+Endless (S0)              /
+Endless (S1)              /
+Endless (S2)              /
+Endless (S3)              /
+Endless (S4)              /
+Endless (S5)              /
+Endless (S6)              /
+Endless (S7)              /
+Endless (S8)              /
+Endless (S9)              /
 
 V-Tetris (VB/JP)                                               BPS, 1996
 ------------------------------------------------------------------------
-A-Type (19)             - 9,999,999 (691 lines)
+A-Type (19)               9,999,999 (691 lines)
 
 Tetris Plus (GB/US)                                         Jaleco, 1996
 ------------------------------------------------------------------------
-Classic (0)             - 999,999 (381 lines)
-Classic (4)             - 999,999 (376 lines)
-Classic (8)             - 999,999 (315 lines)
-Classic (12)            - 999,999 (333 lines)
-Classic (16)            - 999,999 (327 lines)
-Classic (20)            - 999,999 (314 lines)
+Classic (0)               999,999 (381 lines)
+Classic (4)               999,999 (376 lines)
+Classic (8)               999,999 (315 lines)
+Classic (12)              999,999 (333 lines)
+Classic (16)              999,999 (327 lines)
+Classic (20)              999,999 (314 lines)
 
 Tetris DX (GBC/World)                                     Nintendo, 1998
 ------------------------------------------------------------------------
-Marathon (9)            - 9,999,999 (3099 lines)
-Ultra    (9)            -   183,949 (  66 lines)
-40 Lines (9/H0)         - 1:49 (111,371 pts.)
-40 Lines (9/H1)         - 1:43 (103,788 pts.)
-40 Lines (9/H2)         - 1:38 (101,918 pts.)
-40 Lines (9/H3)         - 1:32 ( 99,963 pts.)
-40 Lines (9/H4)         - 1:29 ( 55,332 pts.)
-40 Lines (9/H5)         - 1:27 ( 42,114 pts.)
+Marathon (9)              9,999,999 (3099 lines)
+Ultra    (9)                183,949 (  66 lines)
+40 Lines (9/H0)           1:49 (111,371 pts.)
+40 Lines (9/H1)           1:43 (103,788 pts.)
+40 Lines (9/H2)           1:38 (101,918 pts.)
+40 Lines (9/H3)           1:32 ( 99,963 pts.)
+40 Lines (9/H4)           1:29 ( 55,332 pts.)
+40 Lines (9/H5)           1:27 ( 42,114 pts.)
 
 Tetris: The Grand Master (ARC)                               Arika, 1998
 ------------------------------------------------------------------------
-Default                  -  GM / 11:21:30
-20G                      -  GM / 11:06:20
-Monochrome               -  GM / 12:16:43
-Monochrome 20G           -  GM / 11:42:26
-Big                      - 618 / S9 / 05:35:55
-Big 20G                  - 538 / S9 / 04:36:25
-Reverse                  - 354 / S1 / 06:33:81
-Reverse 20G              -  93 /  9 / 01:38:15
-Master (Score)           - 999 / -- /  183,029
-Master (Score) 20G       - 999 / -- /  168,961
-Secret Grade (Default)   - 328 / S1 / 07:24:43
+Default                    999 / GM / 11:21:30
+20G                        999 / GM / 11:06:20
+Monochrome                 999 / GM / 12:16:43
+Monochrome 20G             999 / GM / 11:42:26
+Big                        618 / S9 / 05:35:55
+Big 20G                    538 / S9 / 04:36:25
+Reverse                    354 / S1 / 06:33:81
+Reverse 20G                 93 /  9 / 01:38:15
+Master (Score)             999 / -- /  183,029
+Master (Score) 20G         999 / -- /  168,961
+Secret Grade (Default)     328 / S1 / 07:24:43
 
 Tetris: The Grand Master 2 - The Absolute (ARC)              Arika, 2000
 ------------------------------------------------------------------------
-Normal                   - 300 / 318,246
-Normal 20G               - 300 / 232,494
-Master                   -  S8 / 09:46:68 [green line]
-Master (fastest)         - 10:22:45 / S8
-Master 20G               - 999 / S7 / 09:48:41
-Master 20G (fastest)     - 09:48:41 / S7
-Master Item              - 942 / S4 / 12:06:16
-Master Item 20G          - 499 /  2 / 06:43:60
-Master Big               - 636 / S9 / 05:20:66
-Master Big 20G           - 377 / S3 / 03:00:18
-Secret Grade (Master)    - 203 / S1 / 04:13:81
+Normal                     300 / -- / 318,246
+Normal 20G                 300 / -- / 232,494
+Master                     999 / S8 / 09:46:68 [green line]
+Master (fastest)           999 / S8 / 10:22:45
+Master 20G                 999 / S7 / 09:48:41
+Master 20G (fastest)       999 / S7 / 09:48:41
+Master Item                942 / S4 / 12:06:16
+Master Item 20G            499 /  2 / 06:43:60
+Master Big                 636 / S9 / 05:20:66
+Master Big 20G             377 / S3 / 03:00:18
+Secret Grade (Master)      203 / S1 / 04:13:81
 
 Tetris: The Grand Master 2 - The Absolute Plus (ARC)         Arika, 2000
 ------------------------------------------------------------------------
-Normal                   - 300 / 335,988
-Normal 20G               - 300 / 268,091
-Master                   -  S6 / 10:38:98 [green line]
-Master (fastest)         - 10:38:98 / S6
-Master 20G               - 999 / S6 / 09:45:81
-Master 20G (fastest)     - 999 / S6 / 09:45:81
-Master Item              - 624 /  1 / 09:03:81
-Master Item 20G          - 359 /  3 / 04:54:28
-Master Big               - 420 /  1 / 05:13:10
-Master Big 20G           - 217 /  3 / 02:38:16
-TGM+                     - 966 / 11:30:85
-TGM+ 20G                 - 779 / 08:28:56
-TGM+ Item                - 443 / 06:54:11
-TGM+ Item 20G            - 506 / 06:45:08
-T.A. Death               - 462 / -- / 03:27:85
-Secret Grade (Master)    -  S1 / 297 / 03:32:18
-Secret Grade (Death)     - /
-T.A. Death (Series of 5) - 1,847
+Normal                     300 / -- / 335,988
+Normal 20G                 300 / -- / 268,091
+Master                     999 / S6 / 10:38:98 [green line]
+Master (fastest)           999 / S6 / 10:38:98
+Master 20G                 999 / S6 / 09:45:81
+Master 20G (fastest)       999 / S6 / 09:45:81
+Master Item                624 /  1 / 09:03:81
+Master Item 20G            359 /  3 / 04:54:28
+Master Big                 420 /  1 / 05:13:10
+Master Big 20G             217 /  3 / 02:38:16
+TGM+                       966 / -- / 11:30:85
+TGM+ 20G                   779 / -- / 08:28:56
+TGM+ Item                  443 / -- / 06:54:11
+TGM+ Item 20G              506 / -- / 06:45:08
+T.A. Death                 499 / -- / 03:55:86
+Secret Grade (Master)      203 / S1 / 04:13:81
+Secret Grade (Death)       /
+T.A. Death (Series of 5)   1,847
 
 Tetris: The Grand Master 3 - Terror-Instinct (ARC)           Arika, 2005
 ------------------------------------------------------------------------
 Classic Rule:
-. Easy                   - 200 / H266
-. Sakura                 -  10 / 100% / 02:56:75
-. Master                 -  S5 / 655  / 06:49:96
-. Master Big             - /
-. Shirase                - 151 / S1   / 00:53:60
-. Secret Grade (Master)  -   1 / 02:50:01
-. Secret Grade (Shirase) - /
+. Easy                     200 / H266
+. Sakura                    10 / 100% / 02:56:75
+. Master                    S5 / 655  / 06:49:96
+. Master Big               /
+. Shirase                  151 / S1   / 00:53:60
+. Secret Grade (Master)      1 / 02:50:01
+. Secret Grade (Shirase)   /
 World Rule:
-. Easy                   - /
-. Sakura                 - /
-. Master                 - /
-. Master Big             - /
-. Shirase                - /
-. Secret Grade (Master)  - /
+. Easy                     /
+. Sakura                   /
+. Master                   /
+. Master Big               /
+. Shirase                  /
+. Secret Grade (Master)    /
 
 Tetris with Cardcaptor Sakura Eternal Heart (PSX/JP)         Arika, 2000
 ------------------------------------------------------------------------
 Story (Easy):
-. Fire		         - 00:02:11
-. Sword	                 - 00:02:44
-. Jump	                 - 00:03:92
-. Fly	                 - 00:11:05
-. Mirror	         - 00:04:49
-. Wind	                 - 00:10:33
-. Flower	         - 00:07:05
-. Eraser	         - 00:12:06
-. Earth	                 - 00:26:97
-. Shadow 	         - 00:12:73
-. Maze 	                 - 00:05:39
-. Illusion 	         - 00:13:89
-. Wood 	                 - 00:08:95
-. Thunder 	         - 00:09:92
-. Glow 	                 - 00:08:26
-. Shield 	         - 00:18:10
-. Water	                 - 00:05:12
-. Eriol	                 - 00:14:11
+. Fire		                 00:02:11
+. Sword	                   00:02:44
+. Jump	                   00:03:92
+. Fly	                     00:11:05
+. Mirror	                 00:04:49
+. Wind	                   00:10:33
+. Flower	                 00:07:05
+. Eraser	                 00:12:06
+. Earth	                   00:26:97
+. Shadow 	                 00:12:73
+. Maze 	                   00:05:39
+. Illusion 	               00:13:89
+. Wood 	                   00:08:95
+. Thunder 	               00:09:92
+. Glow 	                   00:08:26
+. Shield 	                 00:18:10
+. Water	                   00:05:12
+. Eriol	                   00:14:11
 . .................................
-. Total                  - 02:56:89
+. Total                    02:56:89
 . .................................
 Story (Normal):
-. Fire		         - 00:03:58
-. Sword	                 - 00:12:93
-. Jump	                 - 00:08:37
-. Fly	                 - 00:13:02
-. Mirror	         - 00:21:39
-. Wind	                 - 00:22:66
-. Flower	         - 00:09:25
-. Eraser	         - 00:16:13
-. Earth	                 - 01:14:41
-. Shadow 	         - 00:19:29
-. Maze 	                 - 00:07:56
-. Illusion 	         - 00:25:47
-. Wood 	                 - 00:17:69
-. Thunder 	         - 00:14:96
-. Glow 	                 - 00:25:86
-. Shield 	         - 00:14:82
-. Water	                 - 00:22:30
-. Eriol	                 - 01:30:14
+. Fire		                 00:03:58
+. Sword	                   00:12:93
+. Jump	                   00:08:37
+. Fly	                     00:13:02
+. Mirror	                 00:21:39
+. Wind	                   00:22:66
+. Flower	                 00:09:25
+. Eraser	                 00:16:13
+. Earth	                   01:14:41
+. Shadow 	                 00:19:29
+. Maze 	                   00:07:56
+. Illusion 	               00:25:47
+. Wood 	                   00:17:69
+. Thunder 	               00:14:96
+. Glow 	                   00:25:86
+. Shield 	                 00:14:82
+. Water	                   00:22:30
+. Eriol	                   01:30:14
 . .................................
-. Total                  - 06:59:83
+. Total                    06:59:83
 . .................................
 
 Texmaster 2009 (PC)                                                 2008
 ------------------------------------------------------------------------
 Classic Rule:
-. Novice                 - 300 /  353,161
-. Normal                 -  GM / 11:34:13
-. Advance                - 999 / 12:06:66
-. Special                -  S9 / 970 / 10:14:05
-. Sudden                 -  -- / 410 / 03:18:11
-. Special Ti             -  S1 / 643 / 07:22:73
-. Sudden Ti              -  S1 / 148 / 01:14:33
+. Novice                   300 /  353,161
+. Normal                    GM / 11:34:13
+. Advance                  999 / 12:06:66
+. Special                   S9 / 970 / 10:14:05
+. Sudden                    -- / 410 / 03:18:11
+. Special Ti                S1 / 643 / 07:22:73
+. Sudden Ti                 S1 / 148 / 01:14:33
 World Rule:
-. Novice                 - /
-. Normal                 - /
-. Advance                - /
-. Special                - /
-. Sudden                 - /
-. Special Ti             - /
-. Sudden Ti              - /
+. Novice                   /
+. Normal                   /
+. Advance                  /
+. Special                  /
+. Sudden                   /
+. Special Ti               /
+. Sudden Ti                /
 
 Shiromino (PC)                                                      2017
 ------------------------------------------------------------------------
-G1 Master              -  GM / 11:04:56
-G1 20G                 -  GM / 10:38:33
-G2 Master              -  S9 / 999 / 09:59:36
-G2 Death               - 416 / --  / 03:07:55
-G3 Terror              - /
-Big Master             - 346 /  2 / 03:52:20
+G1 Master                 GM / 11:04:56
+G1 20G                    GM / 10:38:33
+G2 Master                 S9 / 999 / 09:59:36
+G2 Death                 416 / --  / 03:07:55
+G3 Terror                /
+Big Master               346 /  2 / 03:52:20

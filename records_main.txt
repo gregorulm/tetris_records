@@ -1,6 +1,90 @@
 Tetris: Personal Records
 ========================================================================
 
+. Tetris (GB/World)                                       Nintendo, 1989
+. Tetris (NES/US)                                         Nintendo, 1989
+. Tetris 2 + Bombliss (NES/JP)                                 BPS, 1991
+. Super Tetris 2 + Bombliss (SNES/JP)                          BPS, 1992
+. Super Tetris 3 (SNES/JP)                                     BPS, 1994
+. V-Tetris (VB/JP)                                             BPS, 1996
+. Tetris Plus (GB/US)                                       Jaleco, 1996
+. Tetris DX (GBC/World)                                   Nintendo, 1998
+. Tetris: The Grand Master (ARC)                             Arika, 1998
+. Tetris: The Grand Master 2 - The Absolute (ARC)            Arika, 2000
+. Tetris: The Grand Master 2 - The Absolute Plus (ARC)       Arika, 2000
+
+
+Tetris (GB/World)                                         Nintendo, 1989
+------------------------------------------------------------------------
+A-Type (9)                472,782 (18x lines)
+B-Type (9/H5)              21,101
+
+Tetris (NES/US)                                           Nintendo, 1989
+------------------------------------------------------------------------
+A-Type (9)                518,717 (190 lines)
+
+Tetris 2 + Bombliss (NES/JP)                                   BPS, 1991
+------------------------------------------------------------------------
+A-Type (20)               999,999 (361 lines)
+A-Type (21)               999,999 (348 lines)
+A-Type (22)               999,999 (301 lines)
+A-Type (23)               999,999 (262 lines)
+A-Type (24)               813,160 (254 lines)
+A-Type (25)               /
+A-Type (26)               /
+A-Type (27)               /
+A-Type (28)               /
+A-Type (29)               /
+
+Super Tetris 2 + Bombliss (SNES/JP)                            BPS, 1992
+------------------------------------------------------------------------
+A-Type (20)               999,999 (204 lines)
+A-Type (29)               999,999 (142 lines)
+A-Type (SP0)              999,999 (138 lines)
+A-Type (SP1)              999,999 (144 lines)
+A-Type (SP2)              999,999 (147 lines)
+A-Type (SP3)              999,999 (151 lines)
+A-Type (SP4)              999,999 (144 lines)
+A-Type (SP5)              999,999 (121 lines)
+A-Type (SP6)              999,999 (154 lines)
+A-Type (SP7)              999,999 (174 lines)
+A-Type (SP8)              999,999 (131 lines)
+A-Type (SP9)              999,999 (137 lines)
+
+Super Tetris 3 (SNES/JP)                                       BPS, 1994
+------------------------------------------------------------------------
+Endless (20)              999,999 (200 lines)
+Endless (29)              /
+Endless (S0)              /
+Endless (S1)              /
+Endless (S2)              /
+Endless (S3)              /
+Endless (S4)              /
+Endless (S5)              /
+Endless (S6)              /
+Endless (S7)              /
+Endless (S8)              /
+Endless (S9)              /
+
+V-Tetris (VB/JP)                                               BPS, 1996
+------------------------------------------------------------------------
+A-Type (19)               9,999,999 (691 lines)
+
+Tetris Plus (GB/US)                                         Jaleco, 1996
+------------------------------------------------------------------------
+Classic (20)              999,999 (314 lines)
+
+Tetris DX (GBC/World)                                     Nintendo, 1998
+------------------------------------------------------------------------
+Marathon (9)              9,999,999 (3099 lines)
+Ultra    (9)                183,949 (  66 lines)
+40 Lines (9/H0)           1:49 (111,371 pts.)
+40 Lines (9/H1)           1:43 (103,788 pts.)
+40 Lines (9/H2)           1:38 (101,918 pts.)
+40 Lines (9/H3)           1:32 ( 99,963 pts.)
+40 Lines (9/H4)           1:29 ( 55,332 pts.)
+40 Lines (9/H5)           1:27 ( 42,114 pts.)
+
 Tetris: The Grand Master (ARC)                              Arika, 1998
 -----------------------------------------------------------------------
 Master                    999 / GM / 11:21:30
@@ -14,7 +98,7 @@ Master Reverse            354 / S1 / 06:33:81
 Master Reverse 20G         93 /  9 / 01:38:15
 Master (Score)            999 / -- /  183,029
 Master (Score) 20G        999 / -- /  168,961
-Master (Secret Grade)     328 / S1 / 07:24:43
+Secret Grade (Master)     328 / S1 / 07:24:43
 
 Tetris: The Grand Master 2 - The Absolute (ARC)             Arika, 2000
 -----------------------------------------------------------------------
@@ -29,14 +113,14 @@ Master Big                636 / S9 / 05:20:66
 Master Big 20G            377 / S3 / 03:00:18
 Master     (fastest)      999 / S8 / 10:22:45
 Master 20G (fastest)      999 / S7 / 09:48:41
-Master (Secret Grade)     203 / S1 / 04:13:81
+Secret Grade (Master)     203 / S1 / 04:13:81
 
 Tetris: The Grand Master 2 - The Absolute Plus (ARC)        Arika, 2000
 -----------------------------------------------------------------------
 Normal                    300 / -- /  335,988
 Master                    999 / S6 / 10:38:98 [green line]
 TGM+                      966 / -- / 11:30:85
-T.A. Death                462 / -- / 03:27:85
+T.A. Death                499 / -- / 03:55:86
 Doubles                   /
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Normal 20G                300 / -- /  268,091
@@ -46,5 +130,5 @@ Master Big                420 /  1 / 05:13:10
 Master Item               624 /  1 / 09:03:81
 Master     (fastest)      999 / S6 / 10:38:98
 Master 20G (fastest)      999 / S6 / 09:45:81
-Master (Secret Grade)     297 / S1 / 03:32:18
+Secret Grade (Master)     297 / S1 / 03:32:18
 T.A. Death (Series of 5)  1,847
