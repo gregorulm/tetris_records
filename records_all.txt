@@ -1,24 +1,32 @@
-Tetris: Personal Records
+Tetris: Personal Records (All)
 ========================================================================
 
-. Tetris (GB/World)                                       Nintendo, 1989
-. Tetris (NES/US)                                         Nintendo, 1989
-. Tetris 2 + Bombliss (NES/JP)                                 BPS, 1991
-. Super Tetris 2 + Bombliss (SNES/JP)                          BPS, 1992
-. Super Tetris 3 (SNES/JP)                                     BPS, 1994
-. V-Tetris (VB/JP)                                             BPS, 1996
-. Tetris Plus (GB/US)                                       Jaleco, 1996
-. Tetris DX (GBC/World)                                   Nintendo, 1998
-. Tetris: The Grand Master (ARC)                             Arika, 1998
-. Tetris: The Grand Master 2 - The Absolute (ARC)            Arika, 2000
-. Tetris: The Grand Master 2 - The Absolute Plus (ARC)       Arika, 2000
+Tetris (NES/JP)                                                BPS, 1988
+Tetris (GB/World)                                         Nintendo, 1989
+Tetris (NES/US)                                           Nintendo, 1989
+Tetris 2 + Bombliss (NES/JP)                                   BPS, 1991
+Super Tetris 2 + Bombliss (SNES/JP)                            BPS, 1992
+Super Tetris 3 (SNES/JP)                                       BPS, 1994
+Tetris & Dr. Mario (SNES/US)                              Nintendo, 1994
+Tetris & Dr. Mario (SNES/EU)                              Nintendo, 1994
+V-Tetris (VB/JP)                                               BPS, 1996
+Tetris Plus (GB/US)                                         Jaleco, 1996
+Tetris DX (GBC/World)                                     Nintendo, 1998
+Tetris: The Grand Master (ARC)                               Arika, 1998
+Tetris: The Grand Master 2 - The Absolute (ARC)              Arika, 2000
+Tetris: The Grand Master 2 - The Absolute Plus (ARC)         Arika, 2000
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-. Tetris: The Grand Master 3 - Terror-Instinct (ARC)         Arika, 2005
+Tetris: The Grand Master 3 - Terror-Instinct (ARC)           Arika, 2005
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-. Tetris with Cardcaptor Sakura Eternal Heart (PSX/JP)       Arika, 2000
+Tetris with Cardcaptor Sakura Eternal Heart (PSX/JP)         Arika, 2000
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-. Texmaster 2009 (PC)                                               2008
-. Shiromino (PC)                                                    2017
+Texmaster 2009 (PC)                                                 2008
+Shiromino (PC)                                                      2017
+
+
+Tetris (NES/JP)                                                BPS, 1988
+------------------------------------------------------------------------
+9-5                         1,130
 
 Tetris (GB/World)                                         Nintendo, 1989
 ------------------------------------------------------------------------
@@ -36,6 +44,8 @@ B-Type (9♡/H5)             /
 Tetris (NES/US)                                           Nintendo, 1989
 ------------------------------------------------------------------------
 A-Type (9)                518,717 (190 lines)
+A-Type (18)               /
+B-Type (9.5)              /
 
 Tetris 2 + Bombliss (NES/JP)                                   BPS, 1991
 ------------------------------------------------------------------------
@@ -116,9 +126,21 @@ Endless (S7)              /
 Endless (S8)              /
 Endless (S9)              /
 
+Tetris & Dr. Mario (SNES/US)                              Nintendo, 1994
+------------------------------------------------------------------------
+A-Type (9)                428,955 (188 lines)
+B-Type (9.5)               10,925
+
+Tetris & Dr. Mario (SNES/EU)                              Nintendo, 1994
+------------------------------------------------------------------------
+A-Type (9)                489,031 (252 lines)
+B-Type (9.5)               11,409
+
 V-Tetris (VB/JP)                                               BPS, 1996
 ------------------------------------------------------------------------
 A-Type (19)               9,999,999 (691 lines)
+B-Type (9.5)                 31,000
+C-Type (19)               1,526,820 (143 lines)
 
 Tetris Plus (GB/US)                                         Jaleco, 1996
 ------------------------------------------------------------------------
@@ -160,8 +182,8 @@ Normal                     300 / -- / 318,246
 Normal 20G                 300 / -- / 232,494
 Master                     999 / S8 / 09:46:68 [green line]
 Master (fastest)           999 / S8 / 10:22:45
-Master 20G                 999 / S7 / 09:48:41
-Master 20G (fastest)       999 / S7 / 09:48:41
+Master 20G                 999 / S7 / 09:28:85
+Master 20G (fastest)       999 / S7 / 09:28:85
 Master Item                942 / S4 / 12:06:16
 Master Item 20G            499 /  2 / 06:43:60
 Master Big                 636 / S9 / 05:20:66
@@ -184,10 +206,11 @@ TGM+                       966 / -- / 11:30:85
 TGM+ 20G                   779 / -- / 08:28:56
 TGM+ Item                  443 / -- / 06:54:11
 TGM+ Item 20G              506 / -- / 06:45:08
-T.A. Death                 499 / -- / 03:55:86
+T.A. Death                 499 / -- / 03:49:86
 Secret Grade (Master)      203 / S1 / 04:13:81
 Secret Grade (Death)       /
-T.A. Death (Series of 5)   1,847
+T.A. Death (Series of 5)   2,037
+Doubles                    /
 
 Tetris: The Grand Master 3 - Terror-Instinct (ARC)           Arika, 2005
 ------------------------------------------------------------------------
