@@ -1,7 +1,7 @@
-#Tetris: Personal Records (Main)
+# Tetris: Personal Records (Main)
 --------------------------------------------------
 
-##Tetris: The Grand Master
+## Tetris: The Grand Master
 --------------------------------------------------
 ```
                                    GM  11:21:30 **
@@ -10,7 +10,7 @@ Mono                               GM  12:16:43
 Mono   20G                         GM  11:42:26
 ```
 
-##Tetris: The Grand Master 2: The Absolute
+## Tetris: The Grand Master 2: The Absolute
 --------------------------------------------------
 ```
 Normal                                  318,246 **
@@ -21,7 +21,7 @@ Master     (fastest)                   10:22:45
 Master 20G (fastest)                   09:28:85
 ```
 
-##Tetris: The Grand Master 2: The Absolute Plus
+## Tetris: The Grand Master 2: The Absolute Plus
 --------------------------------------------------
 ````
 Normal                                  335,988 **
