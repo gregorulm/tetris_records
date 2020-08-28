@@ -5,7 +5,7 @@ Tetris: The Grand Master
 --------------------------------------------------
                                    GM  11:21:30 **
 20G                                GM  11:06:20
-Mono                               GM  12:16:43  
+Mono                               GM  12:16:43
 Mono   20G                         GM  11:42:26
 
 Tetris: The Grand Master 2: The Absolute
@@ -13,7 +13,7 @@ Tetris: The Grand Master 2: The Absolute
 Normal                                  318,246 **
 Normal 20G                              232,494
 Master                             S8  09:46:68 **
-Master 20G                         S8  09:46:50
+Master 20G                         S8  09:46:30
 Master     (fastest)                   10:22:45
 Master 20G (fastest)                   09:28:85
 
