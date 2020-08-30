@@ -1,4 +1,4 @@
-Tetris: Personal Records (Main)
+Tetris: Personal Records (TGM/Main)
 =============================================
 
 Tetris: The Grand Master
@@ -10,7 +10,7 @@ Tetris: The Grand Master 2: The Absolute
 ---------------------------------------------
 Master                    [GL]   S8  09:46:68
 Master 20G                [999]  S8  09:43:46
-Master     (fastest)                 10:22:45
+Master     (fastest)                 09:57:78
 Master 20G (fastest)                 09:18:93
 
 Tetris: The Grand Master 2: The Absolute Plus

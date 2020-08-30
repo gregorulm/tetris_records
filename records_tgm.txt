@@ -1,4 +1,4 @@
-Tetris: Personal Records (TGM)
+Tetris: Personal Records (TGM/All)
 ========================================================================
 
 Tetris: The Grand Master (ARC)                              Arika, 1998
@@ -27,7 +27,7 @@ Master Item               999 / S6 / 11:53:11
 Master Item 20G           499 /  2 / 06:43:60
 Master Big                636 / S9 / 05:20:66
 Master Big 20G            377 / S3 / 03:00:18
-Master     (fastest)      999 / S8 / 10:22:45
+Master     (fastest)      999 / S7 / 09:57:78
 Master 20G (fastest)      999 / S7 / 09:18:93
 Secret Grade (Master)     203 / S1 / 04:13:81
 
