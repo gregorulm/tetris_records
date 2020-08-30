@@ -184,7 +184,7 @@ Master                     999 / S8 / 09:46:68 [green line]
 Master (fastest)           999 / S8 / 10:22:45
 Master 20G                 999 / S8 / 09:43:46
 Master 20G (fastest)       999 / S7 / 09:18:93
-Master Item                942 / S4 / 12:06:16
+Master Item                999 / S6 / 11:53:11
 Master Item 20G            499 /  2 / 06:43:60
 Master Big                 636 / S9 / 05:20:66
 Master Big 20G             377 / S3 / 03:00:18
