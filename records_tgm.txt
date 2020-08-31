@@ -34,7 +34,7 @@ Secret Grade (Master)     203 / S1 / 04:13:81
 Tetris: The Grand Master 2 - The Absolute Plus (ARC)        Arika, 2000
 -----------------------------------------------------------------------
 Normal                    300 / -- /  335,988
-Master                    999 / S6 / 10:38:98 [green line]
+Master                    999 / S8 / 09:40:51 [green line]
 TGM+                      966 / -- / 11:30:85
 T.A. Death                499 / -- / 03:49:86
 Doubles                   /
@@ -44,7 +44,7 @@ Master 20G                999 / S6 / 09:45:81
 TGM+   20G                779 / -- / 08:28:56
 Master Big                420 /  1 / 05:13:10
 Master Item               624 /  1 / 09:03:81
-Master     (fastest)      999 / S6 / 10:38:98
+Master     (fastest)      999 / S8 / 09:40:51
 Master 20G (fastest)      999 / S6 / 09:45:81
 Secret Grade (Master)     297 / S1 / 03:32:18
 T.A. Death (Series of 5)  2,037

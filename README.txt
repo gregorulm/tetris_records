@@ -15,6 +15,6 @@ Master 20G (fastest)                 09:18:93
 
 Tetris: The Grand Master 2: The Absolute Plus
 ---------------------------------------------
-Master                    [GL]   S6  10:38:98
+Master                    [GL]   S8  09:40:51
 T.A. Death                [499]  --  03:49:86
-Master     (fastest)                 10:38:98
+Master     (fastest)                 09:40:51
