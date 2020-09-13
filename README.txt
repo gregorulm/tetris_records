@@ -3,8 +3,9 @@ Tetris: Personal Records (TGM/Main)
 
 Tetris: The Grand Master
 ---------------------------------------------
-(Default)                        GM  11:21:30
-20G                              GM  11:06:20
+[default]                        GM  11:21:30
+20G                              GM  10:58:66
+20G (fastest)                        10:58:66
 
 Tetris: The Grand Master 2: The Absolute
 ---------------------------------------------
