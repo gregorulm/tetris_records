@@ -3,7 +3,7 @@ Tetris: Personal Records (TGM/All)
 
 Tetris: The Grand Master (ARC)                              Arika, 1998
 -----------------------------------------------------------------------
-Master                    999 / GM / 11:16:55
+Master                    999 / GM / 11:08:70
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Master 20G                999 / GM / 10:58:66
 Master Mono               999 / GM / 12:16:43
