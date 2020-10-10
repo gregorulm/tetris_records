@@ -5,7 +5,6 @@ Tetris: The Grand Master
 ---------------------------------------------
 [default]                        GM  11:08:70
 20G                              GM  10:58:66
-20G (fastest)                        10:58:66
 
 Tetris: The Grand Master 2: The Absolute
 ---------------------------------------------

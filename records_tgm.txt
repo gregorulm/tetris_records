@@ -4,49 +4,36 @@ Tetris: Personal Records (TGM/Extended)
 Tetris: The Grand Master
 ---------------------------------------------
 [default]                 999 / GM / 11:08:70
-- - - - - - - - - - - - - - - - - - - - - - -
 20G                       999 / GM / 10:58:66
 Mono                      999 / GM / 12:16:43
 Mono 20G                  999 / GM / 11:42:26
-Big                       618 / S9 / 05:35:55
-Big 20G                   538 / S9 / 04:36:25
-Reverse                   354 / S1 / 06:33:81
-Reverse 20G                93 /  9 / 01:38:15
-20G (fastest)             999 / -- / 10:58:66
-Score                     999 / -- /  183,029
-Score 20G                 999 / -- /  168,961
 Secret Grade              --- / S1 / 07:24:43
 
-Tetris: The Grand Master 2 - The Absolute
-----------------------------------------------
+Tetris: The Grand Master 2: The Absolute
+---------------------------------------------
 Normal                    300 / -- /  318,246
-Master                    999 / S8 / 09:46:68
-- - - - - - - - - - - - - - - - - - - - - - -
 Normal 20G                300 / -- /  232,494
+Master                    999 / S8 / 09:46:68
+Master     (fastest)      999 / -- / 09:57:78
 Master 20G                999 / S8 / 09:35:31
+Master 20G (fastest)      999 / -- / 09:18:93
 Master Item               999 / S6 / 11:53:11
 Master Item 20G           999 / S5 / 11:38:95
-Master Big                636 / S9 / 05:20:66
-Master Big 20G            377 / S3 / 03:00:18
-Master     (fastest)      999 / -- / 09:57:78
-Master 20G (fastest)      999 / -- / 09:18:93
 Secret Grade (Master)     --- / S1 / 04:13:81
 
-Tetris: The Grand Master 2 - The Absolute Plus
-----------------------------------------------
+Tetris: The Grand Master 2: The Absolute Plus
+---------------------------------------------
 Normal                    300 / -- /  335,988
-Master              [GL]  999 / S8 / 09:40:51
-TGM+                      966 / -- / 11:30:85
-T.A. Death                499 / -- / 03:49:86
-Doubles                   --- / -- / --:--:--
-- - - - - - - - - - - - - - - - - - - - - - -
 Normal 20G                300 / -- /  268,091
+Master              [GL]  999 / S8 / 09:40:51
+Master     (fastest)      999 / -- / 09:40:51
 Master 20G                999 / S8 / 09:59:01
-TGM+   20G                779 / -- / 08:28:56
+Master 20G (fastest)      999 / -- / 09:45:81
 Master Item               999 / S5 / 12:37:55
 Master Item 20G           359 /  3 / 04:54:28
-Master Big                420 /  1 / 05:13:10
-Master Big 20G            217 /  3 / 02:38:16
-Master     (fastest)      999 / -- / 09:40:51
-Master 20G (fastest)      999 / -- / 09:45:81
+TGM+                      966 / -- / 11:30:85
+TGM+ 20G                  779 / -- / 08:28:56
+TGM+ Item                 443 / -- / 06:54:11
+TGM+ Item 20G             506 / -- / 06:45:08
+T.A. Death                499 / -- / 03:49:86
 Secret Grade (Master)     --- / S1 / 04:13:81
