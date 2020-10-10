@@ -174,7 +174,7 @@ Reverse                    354 / S1 / 06:33:81
 Reverse 20G                 93 /  9 / 01:38:15
 Master (Score)             999 / -- /  183,029
 Master (Score) 20G         999 / -- /  168,961
-Secret Grade (Default)     328 / S1 / 07:24:43
+Secret Grade (Default)     --- / S1 / 07:24:43
 
 Tetris: The Grand Master 2 - The Absolute (ARC)              Arika, 2000
 ------------------------------------------------------------------------
@@ -182,13 +182,13 @@ Normal                     300 / -- / 318,246
 Normal 20G                 300 / -- / 232,494
 Master                     999 / S8 / 09:46:68 [green line]
 Master (fastest)           999 / S7 / 09:57:78
-Master 20G                 999 / S8 / 09:43:46
+Master 20G                 999 / S8 / 09:35:31
 Master 20G (fastest)       999 / S7 / 09:18:93
 Master Item                999 / S6 / 11:53:11
-Master Item 20G            499 /  2 / 06:43:60
+Master Item 20G            999 / S5 / 11:38:95
 Master Big                 636 / S9 / 05:20:66
 Master Big 20G             377 / S3 / 03:00:18
-Secret Grade (Master)      203 / S1 / 04:13:81
+Secret Grade (Master)      --- / S1 / 04:13:81
 
 Tetris: The Grand Master 2 - The Absolute Plus (ARC)         Arika, 2000
 ------------------------------------------------------------------------
@@ -196,9 +196,9 @@ Normal                     300 / -- / 335,988
 Normal 20G                 300 / -- / 268,091
 Master                     999 / S8 / 09:40:51 [green line]
 Master (fastest)           999 / S8 / 09:40:51
-Master 20G                 999 / S6 / 09:45:81
+Master 20G                 999 / S8 / 09:59:01
 Master 20G (fastest)       999 / S6 / 09:45:81
-Master Item                624 /  1 / 09:03:81
+Master Item                999 / S5 / 12:37:55
 Master Item 20G            359 /  3 / 04:54:28
 Master Big                 420 /  1 / 05:13:10
 Master Big 20G             217 /  3 / 02:38:16
@@ -207,7 +207,7 @@ TGM+ 20G                   779 / -- / 08:28:56
 TGM+ Item                  443 / -- / 06:54:11
 TGM+ Item 20G              506 / -- / 06:45:08
 T.A. Death                 499 / -- / 03:49:86
-Secret Grade (Master)      203 / S1 / 04:13:81
+Secret Grade (Master)      --- / S1 / 04:13:81
 Secret Grade (Death)       /
 T.A. Death (Series of 5)   2,037
 Doubles                    /
