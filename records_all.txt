@@ -166,6 +166,7 @@ Tetris: The Grand Master (ARC)                               Arika, 1998
 ------------------------------------------------------------------------
 [default]                  999 / GM / 11:08:70
 20G                        999 / GM / 10:58:66
+20G (fastest)              999 / -- / 10:58:66
 Mono                       999 / GM / 12:16:43
 Mono 20G                   999 / GM / 11:42:26
 Big                        618 / S9 / 05:35:55
@@ -199,15 +200,15 @@ Master (fastest)           999 / S8 / 09:40:51
 Master 20G                 999 / S8 / 09:59:01
 Master 20G (fastest)       999 / S6 / 09:45:81
 Master Item                999 / S5 / 12:37:55
-Master Item 20G            359 /  3 / 04:54:28
+Master Item 20G            999 / S4 / 11:25:93
 Master Big                 420 /  1 / 05:13:10
 Master Big 20G             217 /  3 / 02:38:16
 TGM+                       966 / -- / 11:30:85
 TGM+ 20G                   779 / -- / 08:28:56
-TGM+ Item                  443 / -- / 06:54:11
+TGM+ Item                  862 / -- / 11:41:81
 TGM+ Item 20G              506 / -- / 06:45:08
 T.A. Death                 499 / -- / 03:49:86
-Secret Grade (Master)      --- / S1 / 04:13:81
+Secret Grade (Master)      --- / S1 / 03:32:18
 Secret Grade (Death)       /
 T.A. Death (Series of 5)   2,037
 Doubles                    --- / -- / --:--:--
