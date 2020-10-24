@@ -10,7 +10,7 @@ Tetris: The Grand Master
 Tetris: The Grand Master 2: The Absolute
 ---------------------------------------------
 Master                    [GL]   S8  09:46:68
-Master 20G                [999]  S8  09:35:31
+Master 20G                [999]  S9  09:32:75
 Master     (fastest)                 09:57:78
 Master 20G (fastest)                 09:18:93
 

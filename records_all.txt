@@ -182,9 +182,9 @@ Tetris: The Grand Master 2 - The Absolute (ARC)              Arika, 2000
 Normal                     300 / -- / 318,246
 Normal 20G                 300 / -- / 232,494
 Master                     999 / S8 / 09:46:68 [green line]
-Master (fastest)           999 / S7 / 09:57:78
-Master 20G                 999 / S8 / 09:35:31
-Master 20G (fastest)       999 / S7 / 09:18:93
+Master (fastest)           999 / -- / 09:57:78
+Master 20G                 999 / S9 / 09:32:75
+Master 20G (fastest)       999 / -- / 09:18:93
 Master Item                999 / S6 / 11:53:11
 Master Item 20G            999 / S5 / 11:38:95
 Master Big                 636 / S9 / 05:20:66
@@ -196,9 +196,9 @@ Tetris: The Grand Master 2 - The Absolute Plus (ARC)         Arika, 2000
 Normal                     300 / -- / 335,988
 Normal 20G                 300 / -- / 268,091
 Master                     999 / S8 / 09:40:51 [green line]
-Master (fastest)           999 / S8 / 09:40:51
+Master (fastest)           999 / -- / 09:40:51
 Master 20G                 999 / S8 / 09:59:01
-Master 20G (fastest)       999 / S6 / 09:45:81
+Master 20G (fastest)       999 / -- / 09:45:81
 Master Item                999 / S5 / 12:37:55
 Master Item 20G            999 / S4 / 11:25:93
 Master Big                 420 /  1 / 05:13:10
@@ -209,7 +209,6 @@ TGM+ Item                  862 / -- / 11:41:81
 TGM+ Item 20G              506 / -- / 06:45:08
 T.A. Death                 499 / -- / 03:49:86
 Secret Grade (Master)      --- / S1 / 03:32:18
-Secret Grade (Death)       /
 T.A. Death (Series of 5)   2,037
 Doubles                    --- / -- / --:--:--
 
