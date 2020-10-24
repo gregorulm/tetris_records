@@ -2,6 +2,7 @@ Tetris: Personal Records (All)
 ========================================================================
 
 Tetris (NES/JP)                                                BPS, 1988
+Tetris (GB/JP)                                            Nintendo, 1989
 Tetris (GB/World)                                         Nintendo, 1989
 Tetris (NES/US)                                           Nintendo, 1989
 Tetris 2 + Bombliss (NES/JP)                                   BPS, 1991
@@ -27,6 +28,13 @@ Shiromino (PC)                                                      2017
 Tetris (NES/JP)                                                BPS, 1988
 ------------------------------------------------------------------------
 9-5                         1,130
+
+Tetris (GB/JP)                                            Nintendo, 1989
+------------------------------------------------------------------------
+A-Type (0)                315,259
+A-Type (9)                245,778
+B-Type (9/H0)             /
+B-Type (9/H5)             /
 
 Tetris (GB/World)                                         Nintendo, 1989
 ------------------------------------------------------------------------
