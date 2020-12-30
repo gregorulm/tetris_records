@@ -12,7 +12,7 @@ Big                       [635]  S9  05:36:03 *
 Big 20G                   [538]  S9  04:36:25 *
 Reverse                   [354]  S1  06:33:81 *
 Reverse 20G               [ 93]   9  01:38:15 *
-Score Attack [default]    [999]       183,029 *
+Score Attack [default]    [999]       201,445 *
 Secret Grade [default]           S1  07:24:43 *
 
 Tetris: The Grand Master 2: The Absolute
