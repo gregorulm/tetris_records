@@ -31,7 +31,7 @@ Secret Grade (Master)            S1  04:13:81
 Tetris: The Grand Master 2: The Absolute Plus
 ---------------------------------------------
 Normal                    [300]       335,988
-Master                    [999]  S8o 10:18:80
+Master                    [999] oS8  10:18:80
 Master     (fastest)      [999]      09:40:51
 Master Item               [999]  S5  12:37:55
 Master Item 20G           [999]  S4  11:25:93
