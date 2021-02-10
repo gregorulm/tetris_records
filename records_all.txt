@@ -155,7 +155,7 @@ Tetris: The Grand Master (ARC)                               Arika, 1998
 20G (fastest)              999 / -- / 10:55:53
 Mono                       999 / GM / 11:38:66
 Mono 20G                   999 / GM / 11:42:26
-Big                        635 / S9 / 05:36:03
+Big                        726 / S9 / 06:18:23
 Big 20G                    538 / S9 / 04:36:25
 Reverse                    354 / S1 / 06:33:81
 Reverse 20G                 93 /  9 / 01:38:15
