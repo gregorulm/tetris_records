@@ -1,0 +1,622 @@
+<mamecheat version="1">
+
+  <comment> version 0.4  (unreleased) by Edo </comment>
+
+  <cheat desc=" "/>
+  
+  <cheat desc="Use 2P Timer to Display 500 Time">
+    <script state="run">
+      <action condition="(maincpu.pb@6064C25==05)">maincpu.pw@6064F9E=(maincpu.pw@60793BE)</action>
+    </script>
+  </cheat>
+  <cheat desc="Use 2P Timer to Display 200 Time">
+    <script state="run">
+      <action condition="(maincpu.pb@6064C25==02)">maincpu.pw@6064F9E=(maincpu.pw@60793BE)</action>
+    </script>
+  </cheat>
+
+  <cheat desc=" "/>
+
+  <cheat desc="Use 1P SCORE to Display GRADE POINTS">
+    <script state="run">
+      <action>maincpu.pd@6064BC8=(maincpu.pb@6079379)</action>
+    </script>
+  </cheat>
+  <cheat desc="Use 1P SCORE to Display GRADE POINT DECAY">
+    <script state="run">
+      <action>maincpu.pd@6064BC8=(maincpu.pb@60793C0)</action>
+    </script>
+  </cheat>
+  <cheat desc="Use 2P SCORE to Display GRADE POINTS">
+    <script state="run">
+      <action>maincpu.pd@6064F7C=(maincpu.pb@6079379)</action>
+    </script>
+  </cheat>
+  <cheat desc="Use 2P SCORE to Display GRADE POINT DECAY">
+    <script state="run">
+      <action>maincpu.pd@6064F7C=(maincpu.pb@60793C0)</action>
+    </script>
+  </cheat>
+  
+  <cheat desc=" "/>
+  
+  <cheat desc="Next Tetromino">
+    <parameter>
+      <item value="0x01">(red) I</item>
+      <item value="0x02">(green) Z</item>
+      <item value="0x03">(purple) S</item>
+      <item value="0x04">(blue) J</item>
+      <item value="0x05">(orange) L</item>
+      <item value="0x06">(yellow) O</item>
+      <item value="0x07">(cyan) T</item>
+    </parameter>
+    <script state="run">
+      <action condition="(param==01)">maincpu.pb@6064BF9=02</action>
+      <action condition="(param==02)">maincpu.pb@6064BF9=03</action>
+      <action condition="(param==03)">maincpu.pb@6064BF9=04</action>
+      <action condition="(param==04)">maincpu.pb@6064BF9=05</action>
+      <action condition="(param==05)">maincpu.pb@6064BF9=06</action>
+      <action condition="(param==06)">maincpu.pb@6064BF9=07</action>
+      <action condition="(param==07)">maincpu.pb@6064BF9=08</action>
+    </script>
+  </cheat>
+  
+  <cheat desc=" "/>
+
+  <cheat desc="P1 Set Level">
+    <parameter>
+      <item value="0x01">1</item>
+      <item value="0x02">101</item>
+      <item value="0x03">201</item>
+      <item value="0x04">301</item>
+      <item value="0x05">401</item>
+      <item value="0x06">501</item>
+      <item value="0x07">601</item>
+      <item value="0x08">701</item>
+      <item value="0x09">801</item>
+      <item value="0x0A">901</item>
+      <item value="0x0B">998</item>
+    </parameter>
+    <script state="change">
+      <action condition="(param==01)">maincpu.pb@6064C25=00</action>
+      <action condition="(param==01)">maincpu.pw@6064BBA=0001</action>
+      <action condition="(param==02)">maincpu.pb@6064C25=01</action>
+      <action condition="(param==02)">maincpu.pw@6064BBA=0065</action>
+      <action condition="(param==03)">maincpu.pb@6064C25=02</action>
+      <action condition="(param==03)">maincpu.pw@6064BBA=00C9</action>
+      <action condition="(param==04)">maincpu.pb@6064C25=03</action>
+      <action condition="(param==04)">maincpu.pw@6064BBA=012D</action>
+      <action condition="(param==05)">maincpu.pb@6064C25=04</action>
+      <action condition="(param==05)">maincpu.pw@6064BBA=0191</action>
+      <action condition="(param==06)">maincpu.pb@6064C25=05</action>
+      <action condition="(param==06)">maincpu.pw@6064BBA=01F5</action>
+      <action condition="(param==07)">maincpu.pb@6064C25=06</action>
+      <action condition="(param==07)">maincpu.pw@6064BBA=0259</action>
+      <action condition="(param==08)">maincpu.pb@6064C25=07</action>
+      <action condition="(param==08)">maincpu.pw@6064BBA=02BD</action>
+      <action condition="(param==09)">maincpu.pb@6064C25=08</action>
+      <action condition="(param==09)">maincpu.pw@6064BBA=0321</action>
+      <action condition="(param==0A)">maincpu.pb@6064C25=09</action>
+      <action condition="(param==0A)">maincpu.pw@6064BBA=0385</action>
+      <action condition="(param==0B)">maincpu.pb@6064C25=09</action>
+      <action condition="(param==0B)">maincpu.pw@6064BBA=03E6</action>
+    </script>
+  </cheat>
+  <cheat desc="P1 Lock Level">
+    <parameter>
+      <item value="0x01">1</item>
+      <item value="0x02">101</item>
+      <item value="0x03">201</item>
+      <item value="0x04">301</item>
+      <item value="0x05">401</item>
+      <item value="0x06">501</item>
+      <item value="0x07">601</item>
+      <item value="0x08">701</item>
+      <item value="0x09">801</item>
+      <item value="0x0A">901</item>
+      <item value="0x0B">998</item>
+    </parameter>
+    <script state="run">
+      <action condition="(param==01)">maincpu.pb@6064C25=00</action>
+      <action condition="(param==01)">maincpu.pw@6064BBA=0001</action>
+      <action condition="(param==02)">maincpu.pb@6064C25=01</action>
+      <action condition="(param==02)">maincpu.pw@6064BBA=0065</action>
+      <action condition="(param==03)">maincpu.pb@6064C25=02</action>
+      <action condition="(param==03)">maincpu.pw@6064BBA=00C9</action>
+      <action condition="(param==04)">maincpu.pb@6064C25=03</action>
+      <action condition="(param==04)">maincpu.pw@6064BBA=012D</action>
+      <action condition="(param==05)">maincpu.pb@6064C25=04</action>
+      <action condition="(param==05)">maincpu.pw@6064BBA=0191</action>
+      <action condition="(param==06)">maincpu.pb@6064C25=05</action>
+      <action condition="(param==06)">maincpu.pw@6064BBA=01F5</action>
+      <action condition="(param==07)">maincpu.pb@6064C25=06</action>
+      <action condition="(param==07)">maincpu.pw@6064BBA=0259</action>
+      <action condition="(param==08)">maincpu.pb@6064C25=07</action>
+      <action condition="(param==08)">maincpu.pw@6064BBA=02BD</action>
+      <action condition="(param==09)">maincpu.pb@6064C25=08</action>
+      <action condition="(param==09)">maincpu.pw@6064BBA=0321</action>
+      <action condition="(param==0A)">maincpu.pb@6064C25=09</action>
+      <action condition="(param==0A)">maincpu.pw@6064BBA=0385</action>
+      <action condition="(param==0B)">maincpu.pb@6064C25=09</action>
+      <action condition="(param==0B)">maincpu.pw@6064BBA=03E6</action>
+    </script>
+  </cheat>
+  <cheat desc="P1 Start at Level">
+    <parameter>
+      <item value="0x01">1</item>
+      <item value="0x02">101</item>
+      <item value="0x03">201</item>
+      <item value="0x04">301</item>
+      <item value="0x05">401</item>
+      <item value="0x06">501</item>
+      <item value="0x07">601</item>
+      <item value="0x08">701</item>
+      <item value="0x09">801</item>
+      <item value="0x0A">901</item>
+      <item value="0x0B">998</item>
+    </parameter>
+    <script state="run">
+      <action condition="(param==01) and (maincpu.pw@6064BBA==0000) and (maincpu.pb@6064BF5==01)">maincpu.pb@6064C25=00</action>
+      <action condition="(param==01) and (maincpu.pw@6064BBA==0000) and (maincpu.pb@6064BF5==01)">maincpu.pw@6064BBA=0001</action>
+      <action condition="(param==02) and (maincpu.pw@6064BBA==0000) and (maincpu.pb@6064BF5==01)">maincpu.pb@6064C25=01</action>
+      <action condition="(param==02) and (maincpu.pw@6064BBA==0000) and (maincpu.pb@6064BF5==01)">maincpu.pw@6064BBA=0065</action>
+      <action condition="(param==03) and (maincpu.pw@6064BBA==0000) and (maincpu.pb@6064BF5==01)">maincpu.pb@6064C25=02</action>
+      <action condition="(param==03) and (maincpu.pw@6064BBA==0000) and (maincpu.pb@6064BF5==01)">maincpu.pw@6064BBA=00C9</action>
+      <action condition="(param==04) and (maincpu.pw@6064BBA==0000) and (maincpu.pb@6064BF5==01)">maincpu.pb@6064C25=03</action>
+      <action condition="(param==04) and (maincpu.pw@6064BBA==0000) and (maincpu.pb@6064BF5==01)">maincpu.pw@6064BBA=012D</action>
+      <action condition="(param==05) and (maincpu.pw@6064BBA==0000) and (maincpu.pb@6064BF5==01)">maincpu.pb@6064C25=04</action>
+      <action condition="(param==05) and (maincpu.pw@6064BBA==0000) and (maincpu.pb@6064BF5==01)">maincpu.pw@6064BBA=0191</action>
+      <action condition="(param==06) and (maincpu.pw@6064BBA==0000) and (maincpu.pb@6064BF5==01)">maincpu.pb@6064C25=05</action>
+      <action condition="(param==06) and (maincpu.pw@6064BBA==0000) and (maincpu.pb@6064BF5==01)">maincpu.pw@6064BBA=01F5</action>
+      <action condition="(param==07) and (maincpu.pw@6064BBA==0000) and (maincpu.pb@6064BF5==01)">maincpu.pb@6064C25=06</action>
+      <action condition="(param==07) and (maincpu.pw@6064BBA==0000) and (maincpu.pb@6064BF5==01)">maincpu.pw@6064BBA=0259</action>
+      <action condition="(param==08) and (maincpu.pw@6064BBA==0000) and (maincpu.pb@6064BF5==01)">maincpu.pb@6064C25=07</action>
+      <action condition="(param==08) and (maincpu.pw@6064BBA==0000) and (maincpu.pb@6064BF5==01)">maincpu.pw@6064BBA=02BD</action>
+      <action condition="(param==09) and (maincpu.pw@6064BBA==0000) and (maincpu.pb@6064BF5==01)">maincpu.pb@6064C25=08</action>
+      <action condition="(param==09) and (maincpu.pw@6064BBA==0000) and (maincpu.pb@6064BF5==01)">maincpu.pw@6064BBA=0321</action>
+      <action condition="(param==0A) and (maincpu.pw@6064BBA==0000) and (maincpu.pb@6064BF5==01)">maincpu.pb@6064C25=09</action>
+      <action condition="(param==0A) and (maincpu.pw@6064BBA==0000) and (maincpu.pb@6064BF5==01)">maincpu.pw@6064BBA=0385</action>
+      <action condition="(param==0B) and (maincpu.pw@6064BBA==0000) and (maincpu.pb@6064BF5==01)">maincpu.pb@6064C25=09</action>
+      <action condition="(param==0B) and (maincpu.pw@6064BBA==0000) and (maincpu.pb@6064BF5==01)">maincpu.pw@6064BBA=03E6</action>
+    </script>
+  </cheat>
+    <cheat desc="P2 Set Level">
+    <parameter>
+      <item value="0x01">1</item>
+      <item value="0x02">101</item>
+      <item value="0x03">201</item>
+      <item value="0x04">301</item>
+      <item value="0x05">401</item>
+      <item value="0x06">501</item>
+      <item value="0x07">601</item>
+      <item value="0x08">701</item>
+      <item value="0x09">801</item>
+      <item value="0x0A">901</item>
+      <item value="0x0B">998</item>
+    </parameter>
+    <script state="change">
+      <action condition="(param==01)">maincpu.pb@6064FD9=00</action>
+      <action condition="(param==01)">maincpu.pw@6064F6E=0001</action>
+      <action condition="(param==02)">maincpu.pb@6064FD9=01</action>
+      <action condition="(param==02)">maincpu.pw@6064F6E=0065</action>
+      <action condition="(param==03)">maincpu.pb@6064FD9=02</action>
+      <action condition="(param==03)">maincpu.pw@6064F6E=00C9</action>
+      <action condition="(param==04)">maincpu.pb@6064FD9=03</action>
+      <action condition="(param==04)">maincpu.pw@6064F6E=012D</action>
+      <action condition="(param==05)">maincpu.pb@6064FD9=04</action>
+      <action condition="(param==05)">maincpu.pw@6064F6E=0191</action>
+      <action condition="(param==06)">maincpu.pb@6064FD9=05</action>
+      <action condition="(param==06)">maincpu.pw@6064F6E=01F5</action>
+      <action condition="(param==07)">maincpu.pb@6064FD9=06</action>
+      <action condition="(param==07)">maincpu.pw@6064F6E=0259</action>
+      <action condition="(param==08)">maincpu.pb@6064FD9=07</action>
+      <action condition="(param==08)">maincpu.pw@6064F6E=02BD</action>
+      <action condition="(param==09)">maincpu.pb@6064FD9=08</action>
+      <action condition="(param==09)">maincpu.pw@6064F6E=0321</action>
+      <action condition="(param==0A)">maincpu.pb@6064FD9=09</action>
+      <action condition="(param==0A)">maincpu.pw@6064F6E=0385</action>
+      <action condition="(param==0B)">maincpu.pb@6064FD9=09</action>
+      <action condition="(param==0B)">maincpu.pw@6064F6E=03E6</action>
+    </script>
+  </cheat>
+  <cheat desc="P2 Lock Level">
+    <parameter>
+      <item value="0x01">1</item>
+      <item value="0x02">101</item>
+      <item value="0x03">201</item>
+      <item value="0x04">301</item>
+      <item value="0x05">401</item>
+      <item value="0x06">501</item>
+      <item value="0x07">601</item>
+      <item value="0x08">701</item>
+      <item value="0x09">801</item>
+      <item value="0x0A">901</item>
+      <item value="0x0B">998</item>
+    </parameter>
+    <script state="run">
+      <action condition="(param==01)">maincpu.pb@6064FD9=00</action>
+      <action condition="(param==01)">maincpu.pw@6064F6E=0001</action>
+      <action condition="(param==02)">maincpu.pb@6064FD9=01</action>
+      <action condition="(param==02)">maincpu.pw@6064F6E=0065</action>
+      <action condition="(param==03)">maincpu.pb@6064FD9=02</action>
+      <action condition="(param==03)">maincpu.pw@6064F6E=00C9</action>
+      <action condition="(param==04)">maincpu.pb@6064FD9=03</action>
+      <action condition="(param==04)">maincpu.pw@6064F6E=012D</action>
+      <action condition="(param==05)">maincpu.pb@6064FD9=04</action>
+      <action condition="(param==05)">maincpu.pw@6064F6E=0191</action>
+      <action condition="(param==06)">maincpu.pb@6064FD9=05</action>
+      <action condition="(param==06)">maincpu.pw@6064F6E=01F5</action>
+      <action condition="(param==07)">maincpu.pb@6064FD9=06</action>
+      <action condition="(param==07)">maincpu.pw@6064F6E=0259</action>
+      <action condition="(param==08)">maincpu.pb@6064FD9=07</action>
+      <action condition="(param==08)">maincpu.pw@6064F6E=02BD</action>
+      <action condition="(param==09)">maincpu.pb@6064FD9=08</action>
+      <action condition="(param==09)">maincpu.pw@6064F6E=0321</action>
+      <action condition="(param==0A)">maincpu.pb@6064FD9=09</action>
+      <action condition="(param==0A)">maincpu.pw@6064F6E=0385</action>
+      <action condition="(param==0B)">maincpu.pb@6064FD9=09</action>
+      <action condition="(param==0B)">maincpu.pw@6064F6E=03E6</action>
+    </script>
+  </cheat>
+  <cheat desc="P2 Start at Level">
+    <parameter>
+      <item value="0x01">1</item>
+      <item value="0x02">101</item>
+      <item value="0x03">201</item>
+      <item value="0x04">301</item>
+      <item value="0x05">401</item>
+      <item value="0x06">501</item>
+      <item value="0x07">601</item>
+      <item value="0x08">701</item>
+      <item value="0x09">801</item>
+      <item value="0x0A">901</item>
+      <item value="0x0B">998</item>
+    </parameter>
+    <script state="run">
+      <action condition="(param==01) and (maincpu.pw@6064F6E==0000) and (maincpu.pb@6064FA9==01)">maincpu.pb@6064FD9=00</action>
+      <action condition="(param==01) and (maincpu.pw@6064F6E==0000) and (maincpu.pb@6064FA9==01)">maincpu.pw@6064F6E=0001</action>
+      <action condition="(param==02) and (maincpu.pw@6064F6E==0000) and (maincpu.pb@6064FA9==01)">maincpu.pb@6064FD9=01</action>
+      <action condition="(param==02) and (maincpu.pw@6064F6E==0000) and (maincpu.pb@6064FA9==01)">maincpu.pw@6064F6E=0065</action>
+      <action condition="(param==03) and (maincpu.pw@6064F6E==0000) and (maincpu.pb@6064FA9==01)">maincpu.pb@6064FD9=02</action>
+      <action condition="(param==03) and (maincpu.pw@6064F6E==0000) and (maincpu.pb@6064FA9==01)">maincpu.pw@6064F6E=00C9</action>
+      <action condition="(param==04) and (maincpu.pw@6064F6E==0000) and (maincpu.pb@6064FA9==01)">maincpu.pb@6064FD9=03</action>
+      <action condition="(param==04) and (maincpu.pw@6064F6E==0000) and (maincpu.pb@6064FA9==01)">maincpu.pw@6064F6E=012D</action>
+      <action condition="(param==05) and (maincpu.pw@6064F6E==0000) and (maincpu.pb@6064FA9==01)">maincpu.pb@6064FD9=04</action>
+      <action condition="(param==05) and (maincpu.pw@6064F6E==0000) and (maincpu.pb@6064FA9==01)">maincpu.pw@6064F6E=0191</action>
+      <action condition="(param==06) and (maincpu.pw@6064F6E==0000) and (maincpu.pb@6064FA9==01)">maincpu.pb@6064FD9=05</action>
+      <action condition="(param==06) and (maincpu.pw@6064F6E==0000) and (maincpu.pb@6064FA9==01)">maincpu.pw@6064F6E=01F5</action>
+      <action condition="(param==07) and (maincpu.pw@6064F6E==0000) and (maincpu.pb@6064FA9==01)">maincpu.pb@6064FD9=06</action>
+      <action condition="(param==07) and (maincpu.pw@6064F6E==0000) and (maincpu.pb@6064FA9==01)">maincpu.pw@6064F6E=0259</action>
+      <action condition="(param==08) and (maincpu.pw@6064F6E==0000) and (maincpu.pb@6064FA9==01)">maincpu.pb@6064FD9=07</action>
+      <action condition="(param==08) and (maincpu.pw@6064F6E==0000) and (maincpu.pb@6064FA9==01)">maincpu.pw@6064F6E=02BD</action>
+      <action condition="(param==09) and (maincpu.pw@6064F6E==0000) and (maincpu.pb@6064FA9==01)">maincpu.pb@6064FD9=08</action>
+      <action condition="(param==09) and (maincpu.pw@6064F6E==0000) and (maincpu.pb@6064FA9==01)">maincpu.pw@6064F6E=0321</action>
+      <action condition="(param==0A) and (maincpu.pw@6064F6E==0000) and (maincpu.pb@6064FA9==01)">maincpu.pb@6064FD9=09</action>
+      <action condition="(param==0A) and (maincpu.pw@6064F6E==0000) and (maincpu.pb@6064FA9==01)">maincpu.pw@6064F6E=0385</action>
+      <action condition="(param==0B) and (maincpu.pw@6064F6E==0000) and (maincpu.pb@6064FA9==01)">maincpu.pb@6064FD9=09</action>
+      <action condition="(param==0B) and (maincpu.pw@6064F6E==0000) and (maincpu.pb@6064FA9==01)">maincpu.pw@6064F6E=03E6</action>
+    </script>
+  </cheat>
+
+  <cheat desc=" "/>
+  
+  <cheat desc="20G MODE">
+    <script state="run">
+      <action condition="(maincpu.pb@6064BA5==(01|(maincpu.pb@6064BA5 BAND ~01))) or (maincpu.pb@6064BA5==(02|(maincpu.pb@6064BA5 BAND ~02))) or (maincpu.pb@6064BA5==(80|(maincpu.pb@6064BA5 BAND ~80)))">maincpu.pb@6064BA5=20|(maincpu.pb@6064BA5 BAND ~20)</action>
+    </script>
+  </cheat>
+  <cheat desc="BIG BLOCK MODE (alternate version)">
+    <script state="run">
+      <action condition="(maincpu.pb@6064BA5==(01|(maincpu.pb@6064BA5 BAND ~01))) or (maincpu.pb@6064BA5==(02|(maincpu.pb@6064BA5 BAND ~02)))">maincpu.pb@6064BA5=40|(maincpu.pb@6064BA5 BAND ~40)</action>
+    </script>
+  </cheat>
+  <cheat desc="BIG BLOCK MODE">
+    <script state="run">
+      <action condition="(maincpu.pb@6064BA5!=(80|(maincpu.pb@6064BA5 BAND ~80))) and (maincpu.pb@6064BA5!=(04|(maincpu.pb@6064BA5 BAND ~04)))">maincpu.pb@6064BA5=40|(maincpu.pb@6064BA5 BAND ~40)</action>
+      <action condition="(maincpu.pb@6064BA5!=(80|(maincpu.pb@6064BA5 BAND ~80))) and (maincpu.pb@6064BA5!=(04|(maincpu.pb@6064BA5 BAND ~04)))">maincpu.pb@6064BF8=02</action>
+    </script>
+  </cheat>
+  <cheat desc="TLS MODE">
+    <script state="run">
+      <action condition="(maincpu.pb@6064BA5==(01|(maincpu.pb@6064BA5 BAND ~01))) or (maincpu.pb@6064BA5==(02|(maincpu.pb@6064BA5 BAND ~02))) or (maincpu.pb@6064BA5==(80|(maincpu.pb@6064BA5 BAND ~80)))">maincpu.pb@6064BA4=04|(maincpu.pb@6064BA4 BAND ~04)</action>
+    </script>
+  </cheat>
+
+  <cheat desc=" "/>
+  
+  <cheat desc="Death LOCK Delay">
+    <parameter min="1" max="99" step="1"/>
+    <script state="run">
+      <action>maincpu.pb@60028BA=00</action>
+      <action>maincpu.mb@39FE5=param</action>
+    </script>
+  </cheat>
+  <cheat desc="Death ARE Delay">
+    <parameter min="1" max="99" step="1"/>
+    <script state="run">
+      <action>maincpu.pb@6002AF4=00</action>
+	  <action>maincpu.mb@3A3CF=param</action>
+    </script>
+  </cheat>
+  <cheat desc="Death LINE Delay">
+    <parameter min="1" max="99" step="1"/>
+    <script state="run">
+      <action>maincpu.pb@60029B4=00</action>
+	  <action>maincpu.pb@6002A98=00</action>
+	  <action>maincpu.mb@3A7B9=param</action>
+    </script>
+  </cheat>
+
+  <cheat desc=" "/>
+  
+  <cheat desc="Set All P1 M-Roll Flags">
+    <script state="run">
+      <action>maincpu.pb@6064BD0=7F</action>
+    </script>
+  </cheat>
+  <cheat desc="Set All P2 M-Roll Flags">
+    <script state="run">
+      <action>maincpu.pb@6064F84=7F</action>
+    </script>
+  </cheat>
+  <cheat desc="Use Game Timer as Staff Roll Timer">
+    <script state="run">
+      <action condition="maincpu.pb@6066845==01">maincpu.pw@6064BEA=maincpu.pw@6066826</action>
+    </script>
+  </cheat>
+  <cheat desc="Use SCORE as M-Roll Line Counter">
+    <script state="run">
+      <action condition="maincpu.pb@6066845==01">maincpu.pd@6064BC8=(maincpu.pb@6064C36)</action>
+    </script>
+  </cheat>
+  <cheat desc="P2 Use Game Timer as Staff Roll Timer">
+    <script state="run">
+      <action condition="maincpu.pb@6066845==01">maincpu.pw@6064F9E=maincpu.pw@6066826</action>
+    </script>
+  </cheat>
+  <cheat desc="Copy P1 Field State to P2 Field">
+    <script state="run">
+      <action>maincpu.pb@6078C81=maincpu.pb@6078651</action> <!-- outside of playfield -->
+      <action>maincpu.pb@6078C87=maincpu.pb@6078657</action>
+      <action>maincpu.pb@6078C8D=maincpu.pb@607865D</action>
+      <action>maincpu.pb@6078C93=maincpu.pb@6078663</action>
+      <action>maincpu.pb@6078C99=maincpu.pb@6078669</action>
+      <action>maincpu.pb@6078C9F=maincpu.pb@607866F</action>
+      <action>maincpu.pb@6078CA5=maincpu.pb@6078675</action>
+      <action>maincpu.pb@6078CAB=maincpu.pb@607867B</action>
+      <action>maincpu.pb@6078CB1=maincpu.pb@6078681</action>
+      <action>maincpu.pb@6078CB7=maincpu.pb@6078687</action>
+      <action>maincpu.pb@6078CBD=maincpu.pb@607868D</action>
+      <action>maincpu.pb@6078CC3=maincpu.pb@6078693</action> <!-- outside of playfield -->
+      <action>maincpu.pb@6078CC9=maincpu.pb@6078699</action> <!-- outside of playfield -->
+      <action>maincpu.pb@6078CCF=maincpu.pb@607869F</action>
+      <action>maincpu.pb@6078CD5=maincpu.pb@60786A5</action>
+      <action>maincpu.pb@6078CDB=maincpu.pb@60786AB</action>
+      <action>maincpu.pb@6078CE1=maincpu.pb@60786B1</action>
+      <action>maincpu.pb@6078CE7=maincpu.pb@60786B7</action>
+      <action>maincpu.pb@6078CED=maincpu.pb@60786BD</action>
+      <action>maincpu.pb@6078CF3=maincpu.pb@60786C3</action>
+      <action>maincpu.pb@6078CF9=maincpu.pb@60786C9</action>
+      <action>maincpu.pb@6078CFF=maincpu.pb@60786CF</action>
+      <action>maincpu.pb@6078D05=maincpu.pb@60786D5</action>
+      <action>maincpu.pb@6078D0B=maincpu.pb@60786DB</action> <!-- outside of playfield -->
+      <action>maincpu.pb@6078D11=maincpu.pb@60786E1</action> <!-- outside of playfield -->
+      <action>maincpu.pb@6078D17=maincpu.pb@60786E7</action>
+      <action>maincpu.pb@6078D1D=maincpu.pb@60786ED</action>
+      <action>maincpu.pb@6078D23=maincpu.pb@60786F3</action>
+      <action>maincpu.pb@6078D29=maincpu.pb@60786F9</action>
+      <action>maincpu.pb@6078D2F=maincpu.pb@60786FF</action>
+      <action>maincpu.pb@6078D35=maincpu.pb@6078705</action>
+      <action>maincpu.pb@6078D3B=maincpu.pb@607870B</action>
+      <action>maincpu.pb@6078D41=maincpu.pb@6078711</action>
+      <action>maincpu.pb@6078D47=maincpu.pb@6078717</action>
+      <action>maincpu.pb@6078D4D=maincpu.pb@607871D</action>
+      <action>maincpu.pb@6078D53=maincpu.pb@6078723</action> <!-- outside of playfield -->
+      <action>maincpu.pb@6078D59=maincpu.pb@6078729</action> <!-- outside of playfield -->
+      <action>maincpu.pb@6078D5F=maincpu.pb@607872F</action>
+      <action>maincpu.pb@6078D65=maincpu.pb@6078735</action>
+      <action>maincpu.pb@6078D6B=maincpu.pb@607873B</action>
+      <action>maincpu.pb@6078D71=maincpu.pb@6078741</action>
+      <action>maincpu.pb@6078D77=maincpu.pb@6078747</action>
+      <action>maincpu.pb@6078D7D=maincpu.pb@607874D</action>
+      <action>maincpu.pb@6078D83=maincpu.pb@6078753</action>
+      <action>maincpu.pb@6078D89=maincpu.pb@6078759</action>
+      <action>maincpu.pb@6078D8F=maincpu.pb@607875F</action>
+      <action>maincpu.pb@6078D95=maincpu.pb@6078765</action>
+      <action>maincpu.pb@6078D9B=maincpu.pb@607876B</action> <!-- outside of playfield -->
+      <action>maincpu.pb@6078DA1=maincpu.pb@6078771</action> <!-- outside of playfield -->
+      <action>maincpu.pb@6078DA7=maincpu.pb@6078777</action>
+      <action>maincpu.pb@6078DAD=maincpu.pb@607877D</action>
+      <action>maincpu.pb@6078DB3=maincpu.pb@6078783</action>
+      <action>maincpu.pb@6078DB9=maincpu.pb@6078789</action>
+      <action>maincpu.pb@6078DBF=maincpu.pb@607878F</action>
+      <action>maincpu.pb@6078DC5=maincpu.pb@6078795</action>
+      <action>maincpu.pb@6078DCB=maincpu.pb@607879B</action>
+      <action>maincpu.pb@6078DD1=maincpu.pb@60787A1</action>
+      <action>maincpu.pb@6078DD7=maincpu.pb@60787A7</action>
+      <action>maincpu.pb@6078DDD=maincpu.pb@60787AD</action>
+      <action>maincpu.pb@6078DE3=maincpu.pb@60787B3</action> <!-- outside of playfield -->
+      <action>maincpu.pb@6078DE9=maincpu.pb@60787B9</action> <!-- outside of playfield -->
+      <action>maincpu.pb@6078DEF=maincpu.pb@60787BF</action>
+      <action>maincpu.pb@6078DF5=maincpu.pb@60787C5</action>
+      <action>maincpu.pb@6078DFB=maincpu.pb@60787CB</action>
+      <action>maincpu.pb@6078E01=maincpu.pb@60787D1</action>
+      <action>maincpu.pb@6078E07=maincpu.pb@60787D7</action>
+      <action>maincpu.pb@6078E0D=maincpu.pb@60787DD</action>
+      <action>maincpu.pb@6078E13=maincpu.pb@60787E3</action>
+      <action>maincpu.pb@6078E19=maincpu.pb@60787E9</action>
+      <action>maincpu.pb@6078E1F=maincpu.pb@60787EF</action>
+      <action>maincpu.pb@6078E25=maincpu.pb@60787F5</action>
+      <action>maincpu.pb@6078E2B=maincpu.pb@60787FB</action> <!-- outside of playfield -->
+      <action>maincpu.pb@6078E31=maincpu.pb@6078801</action> <!-- outside of playfield -->
+      <action>maincpu.pb@6078E37=maincpu.pb@6078807</action>
+      <action>maincpu.pb@6078E3D=maincpu.pb@607880D</action>
+      <action>maincpu.pb@6078E43=maincpu.pb@6078813</action>
+      <action>maincpu.pb@6078E49=maincpu.pb@6078819</action>
+      <action>maincpu.pb@6078E4F=maincpu.pb@607881F</action>
+      <action>maincpu.pb@6078E55=maincpu.pb@6078825</action>
+      <action>maincpu.pb@6078E5B=maincpu.pb@607882B</action>
+      <action>maincpu.pb@6078E61=maincpu.pb@6078831</action>
+      <action>maincpu.pb@6078E67=maincpu.pb@6078837</action>
+      <action>maincpu.pb@6078E6D=maincpu.pb@607883D</action>
+      <action>maincpu.pb@6078E73=maincpu.pb@6078843</action> <!-- outside of playfield -->
+      <action>maincpu.pb@6078E79=maincpu.pb@6078849</action> <!-- outside of playfield -->
+      <action>maincpu.pb@6078E7F=maincpu.pb@607884F</action>
+      <action>maincpu.pb@6078E85=maincpu.pb@6078855</action>
+      <action>maincpu.pb@6078E8B=maincpu.pb@607885B</action>
+      <action>maincpu.pb@6078E91=maincpu.pb@6078861</action>
+      <action>maincpu.pb@6078E97=maincpu.pb@6078867</action>
+      <action>maincpu.pb@6078E9D=maincpu.pb@607886D</action>
+      <action>maincpu.pb@6078EA3=maincpu.pb@6078873</action>
+      <action>maincpu.pb@6078EA9=maincpu.pb@6078879</action>
+      <action>maincpu.pb@6078EAF=maincpu.pb@607887F</action>
+      <action>maincpu.pb@6078EB5=maincpu.pb@6078885</action>
+      <action>maincpu.pb@6078EBB=maincpu.pb@607888B</action> <!-- outside of playfield -->
+      <action>maincpu.pb@6078EC1=maincpu.pb@6078891</action> <!-- outside of playfield -->
+      <action>maincpu.pb@6078EC7=maincpu.pb@6078897</action>
+      <action>maincpu.pb@6078ECD=maincpu.pb@607889D</action>
+      <action>maincpu.pb@6078ED3=maincpu.pb@60788A3</action>
+      <action>maincpu.pb@6078ED9=maincpu.pb@60788A9</action>
+      <action>maincpu.pb@6078EDF=maincpu.pb@60788AF</action>
+      <action>maincpu.pb@6078EE5=maincpu.pb@60788B5</action>
+      <action>maincpu.pb@6078EEB=maincpu.pb@60788BB</action>
+      <action>maincpu.pb@6078EF1=maincpu.pb@60788C1</action>
+      <action>maincpu.pb@6078EF7=maincpu.pb@60788C7</action>
+      <action>maincpu.pb@6078EFD=maincpu.pb@60788CD</action>
+      <action>maincpu.pb@6078F03=maincpu.pb@60788D3</action> <!-- outside of playfield -->
+      <action>maincpu.pb@6078F09=maincpu.pb@60788D9</action> <!-- outside of playfield -->
+      <action>maincpu.pb@6078F0F=maincpu.pb@60788DF</action>
+      <action>maincpu.pb@6078F15=maincpu.pb@60788E5</action>
+      <action>maincpu.pb@6078F1B=maincpu.pb@60788EB</action>
+      <action>maincpu.pb@6078F21=maincpu.pb@60788F1</action>
+      <action>maincpu.pb@6078F27=maincpu.pb@60788F7</action>
+      <action>maincpu.pb@6078F2D=maincpu.pb@60788FD</action>
+      <action>maincpu.pb@6078F33=maincpu.pb@6078903</action>
+      <action>maincpu.pb@6078F39=maincpu.pb@6078909</action>
+      <action>maincpu.pb@6078F3F=maincpu.pb@607890F</action>
+      <action>maincpu.pb@6078F45=maincpu.pb@6078915</action>
+      <action>maincpu.pb@6078F4B=maincpu.pb@607891B</action> <!-- outside of playfield -->
+      <action>maincpu.pb@6078F51=maincpu.pb@6078921</action> <!-- outside of playfield -->
+      <action>maincpu.pb@6078F57=maincpu.pb@6078927</action>
+      <action>maincpu.pb@6078F5D=maincpu.pb@607892D</action>
+      <action>maincpu.pb@6078F63=maincpu.pb@6078933</action>
+      <action>maincpu.pb@6078F69=maincpu.pb@6078939</action>
+      <action>maincpu.pb@6078F6F=maincpu.pb@607893F</action>
+      <action>maincpu.pb@6078F75=maincpu.pb@6078945</action>
+      <action>maincpu.pb@6078F7B=maincpu.pb@607894B</action>
+      <action>maincpu.pb@6078F81=maincpu.pb@6078951</action>
+      <action>maincpu.pb@6078F87=maincpu.pb@6078957</action>
+      <action>maincpu.pb@6078F8D=maincpu.pb@607895D</action>
+      <action>maincpu.pb@6078F93=maincpu.pb@6078963</action> <!-- outside of playfield -->
+      <action>maincpu.pb@6078F99=maincpu.pb@6078969</action> <!-- outside of playfield -->
+      <action>maincpu.pb@6078F9F=maincpu.pb@607896F</action>
+      <action>maincpu.pb@6078FA5=maincpu.pb@6078975</action>
+      <action>maincpu.pb@6078FAB=maincpu.pb@607897B</action>
+      <action>maincpu.pb@6078FB1=maincpu.pb@6078981</action>
+      <action>maincpu.pb@6078FB7=maincpu.pb@6078987</action>
+      <action>maincpu.pb@6078FBD=maincpu.pb@607898D</action>
+      <action>maincpu.pb@6078FC3=maincpu.pb@6078993</action>
+      <action>maincpu.pb@6078FC9=maincpu.pb@6078999</action>
+      <action>maincpu.pb@6078FCF=maincpu.pb@607899F</action>
+      <action>maincpu.pb@6078FD5=maincpu.pb@60789A5</action>
+      <action>maincpu.pb@6078FDB=maincpu.pb@60789AB</action> <!-- outside of playfield -->
+      <action>maincpu.pb@6078FE1=maincpu.pb@60789B1</action> <!-- outside of playfield -->
+      <action>maincpu.pb@6078FE7=maincpu.pb@60789B7</action>
+      <action>maincpu.pb@6078FED=maincpu.pb@60789BD</action>
+      <action>maincpu.pb@6078FF3=maincpu.pb@60789C3</action>
+      <action>maincpu.pb@6078FF9=maincpu.pb@60789C9</action>
+      <action>maincpu.pb@6078FFF=maincpu.pb@60789CF</action>
+      <action>maincpu.pb@6079005=maincpu.pb@60789D5</action>
+      <action>maincpu.pb@607900B=maincpu.pb@60789DB</action>
+      <action>maincpu.pb@6079011=maincpu.pb@60789E1</action>
+      <action>maincpu.pb@6079017=maincpu.pb@60789E7</action>
+      <action>maincpu.pb@607901D=maincpu.pb@60789ED</action>
+      <action>maincpu.pb@6079023=maincpu.pb@60789F3</action> <!-- outside of playfield -->
+      <action>maincpu.pb@6079029=maincpu.pb@60789F9</action> <!-- outside of playfield -->
+      <action>maincpu.pb@607902F=maincpu.pb@60789FF</action>
+      <action>maincpu.pb@6079035=maincpu.pb@6078A05</action>
+      <action>maincpu.pb@607903B=maincpu.pb@6078A0B</action>
+      <action>maincpu.pb@6079041=maincpu.pb@6078A11</action>
+      <action>maincpu.pb@6079047=maincpu.pb@6078A17</action>
+      <action>maincpu.pb@607904D=maincpu.pb@6078A1D</action>
+      <action>maincpu.pb@6079053=maincpu.pb@6078A23</action>
+      <action>maincpu.pb@6079059=maincpu.pb@6078A29</action>
+      <action>maincpu.pb@607905F=maincpu.pb@6078A2F</action>
+      <action>maincpu.pb@6079065=maincpu.pb@6078A35</action>
+      <action>maincpu.pb@607906B=maincpu.pb@6078A3B</action> <!-- outside of playfield -->
+      <action>maincpu.pb@6079071=maincpu.pb@6078A41</action> <!-- outside of playfield -->
+      <action>maincpu.pb@6079077=maincpu.pb@6078A47</action>
+      <action>maincpu.pb@607907D=maincpu.pb@6078A4D</action>
+      <action>maincpu.pb@6079083=maincpu.pb@6078A53</action>
+      <action>maincpu.pb@6079089=maincpu.pb@6078A59</action>
+      <action>maincpu.pb@607908F=maincpu.pb@6078A5F</action>
+      <action>maincpu.pb@6079095=maincpu.pb@6078A65</action>
+      <action>maincpu.pb@607909B=maincpu.pb@6078A6B</action>
+      <action>maincpu.pb@60790A1=maincpu.pb@6078A71</action>
+      <action>maincpu.pb@60790A7=maincpu.pb@6078A77</action>
+      <action>maincpu.pb@60790AD=maincpu.pb@6078A7D</action>
+      <action>maincpu.pb@60790B3=maincpu.pb@6078A83</action> <!-- outside of playfield -->
+      <action>maincpu.pb@60790B9=maincpu.pb@6078A89</action> <!-- outside of playfield -->
+      <action>maincpu.pb@60790BF=maincpu.pb@6078A8F</action>
+      <action>maincpu.pb@60790C5=maincpu.pb@6078A95</action>
+      <action>maincpu.pb@60790CB=maincpu.pb@6078A9B</action>
+      <action>maincpu.pb@60790D1=maincpu.pb@6078AA1</action>
+      <action>maincpu.pb@60790D7=maincpu.pb@6078AA7</action>
+      <action>maincpu.pb@60790DD=maincpu.pb@6078AAD</action>
+      <action>maincpu.pb@60790E3=maincpu.pb@6078AB3</action>
+      <action>maincpu.pb@60790E9=maincpu.pb@6078AB9</action>
+      <action>maincpu.pb@60790EF=maincpu.pb@6078ABF</action>
+      <action>maincpu.pb@60790F5=maincpu.pb@6078AC5</action>
+      <action>maincpu.pb@60790FB=maincpu.pb@6078ACB</action> <!-- outside of playfield -->
+      <action>maincpu.pb@6079101=maincpu.pb@6078AD1</action> <!-- outside of playfield -->
+      <action>maincpu.pb@6079107=maincpu.pb@6078AD7</action>
+      <action>maincpu.pb@607910D=maincpu.pb@6078ADD</action>
+      <action>maincpu.pb@6079113=maincpu.pb@6078AE3</action>
+      <action>maincpu.pb@6079119=maincpu.pb@6078AE9</action>
+      <action>maincpu.pb@607911F=maincpu.pb@6078AEF</action>
+      <action>maincpu.pb@6079125=maincpu.pb@6078AF5</action>
+      <action>maincpu.pb@607912B=maincpu.pb@6078AFB</action>
+      <action>maincpu.pb@6079131=maincpu.pb@6078B01</action>
+      <action>maincpu.pb@6079137=maincpu.pb@6078B07</action>
+      <action>maincpu.pb@607913D=maincpu.pb@6078B0D</action>
+      <action>maincpu.pb@6079143=maincpu.pb@6078B13</action> <!-- outside of playfield -->
+      <action>maincpu.pb@6079149=maincpu.pb@6078B19</action> <!-- outside of playfield -->
+      <action>maincpu.pb@607914F=maincpu.pb@6078B1F</action>
+      <action>maincpu.pb@6079155=maincpu.pb@6078B25</action>
+      <action>maincpu.pb@607915B=maincpu.pb@6078B2B</action>
+      <action>maincpu.pb@6079161=maincpu.pb@6078B31</action>
+      <action>maincpu.pb@6079167=maincpu.pb@6078B37</action>
+      <action>maincpu.pb@607916D=maincpu.pb@6078B3D</action>
+      <action>maincpu.pb@6079173=maincpu.pb@6078B43</action>
+      <action>maincpu.pb@6079179=maincpu.pb@6078B49</action>
+      <action>maincpu.pb@607917F=maincpu.pb@6078B4F</action>
+      <action>maincpu.pb@6079185=maincpu.pb@6078B55</action>
+      <action>maincpu.pb@607918B=maincpu.pb@6078B5B</action> <!-- outside of playfield -->
+      <action>maincpu.pb@6079191=maincpu.pb@6078B61</action> <!-- outside of playfield -->
+      <action>maincpu.pb@6079197=maincpu.pb@6078B67</action>
+      <action>maincpu.pb@607919D=maincpu.pb@6078B6D</action>
+      <action>maincpu.pb@60791A3=maincpu.pb@6078B73</action>
+      <action>maincpu.pb@60791A9=maincpu.pb@6078B79</action>
+      <action>maincpu.pb@60791AF=maincpu.pb@6078B7F</action>
+      <action>maincpu.pb@60791B5=maincpu.pb@6078B85</action>
+      <action>maincpu.pb@60791BB=maincpu.pb@6078B8B</action>
+      <action>maincpu.pb@60791C1=maincpu.pb@6078B91</action>
+      <action>maincpu.pb@60791C7=maincpu.pb@6078B97</action>
+      <action>maincpu.pb@60791CD=maincpu.pb@6078B9D</action>
+      <action>maincpu.pb@60791D3=maincpu.pb@6078BA3</action> <!-- outside of playfield -->
+      <action>maincpu.pb@60791D9=maincpu.pb@6078BA9</action> <!-- outside of playfield -->
+      <action>maincpu.pb@60791DF=maincpu.pb@6078BAF</action>
+      <action>maincpu.pb@60791E5=maincpu.pb@6078BB5</action>
+      <action>maincpu.pb@60791EB=maincpu.pb@6078BBB</action>
+      <action>maincpu.pb@60791F1=maincpu.pb@6078BC1</action>
+      <action>maincpu.pb@60791F7=maincpu.pb@6078BC7</action>
+      <action>maincpu.pb@60791FD=maincpu.pb@6078BCD</action>
+      <action>maincpu.pb@6079203=maincpu.pb@6078BD3</action>
+      <action>maincpu.pb@6079209=maincpu.pb@6078BD9</action>
+      <action>maincpu.pb@607920F=maincpu.pb@6078BDF</action>
+      <action>maincpu.pb@6079215=maincpu.pb@6078BE5</action>
+      <action>maincpu.pb@607921B=maincpu.pb@6078BEB</action> <!-- outside of playfield -->
+    </script>
+  </cheat>
+
+</mamecheat>
