@@ -59,19 +59,19 @@ Story: Normal              ALL       06:59:83
 Tetris: The Grand Master 3: Terror-Instinct
 ---------------------------------------------
 Easy                   W  200  H284  03:28:43
-Sakura                 W   11   80%  04:29:60
-Master                 W  486    S2  05:03:33
+Sakura                 W [ 11]  80%  04:29:60
+Master                 W [486]   S2  05:03:33
 Master (qual.)         W         S1
-Shirase                W  276    S2  02:22:06
-Master Big             W  713    S5  07:27:13
+Shirase                W [276]   S2  02:22:06
+Master Big             W [713]   S5  07:27:13
 Secret Grade (Master)  W  /
 Secret Grade (Shirase) W  /
 Easy                   C  200  H497  03:15:18
-Sakura                 C   18   94%  05:42:10 
-Master                 C  714    S7  06:40:26
+Sakura                 C [ 18]  94%  05:42:10 
+Master                 C [714]   S7  06:40:26
 Master (qual.)         C         S4
-Shirase                C  332    S3  02:22:93
-Master Big             C  542    S1  ---
+Shirase                C [332]   S3  02:22:93
+Master Big             C [542]   S1  ---
 Secret Grade (Master)  C   /
 Secret Grade (Shirase) C   /
 
