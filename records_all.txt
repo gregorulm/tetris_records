@@ -2,6 +2,7 @@ Tetris: Personal Records (All)
 ========================================================================
 
 Tetris (NES/JP)                                                BPS, 1988
+Tetris (GB/JP)                                            Nintendo, 1989     
 Tetris (GB/World)                                         Nintendo, 1989
 Tetris (NES/US)                                           Nintendo, 1989
 Tetris 2 + Bombliss (NES/JP)                                   BPS, 1991
@@ -15,12 +16,17 @@ Tetris: The Grand Master 2 - The Absolute (ARC)              Arika, 2000
 Tetris: The Grand Master 2 - The Absolute Plus (ARC)         Arika, 2000
 Tetris with Cardcaptor Sakura Eternal Heart (PSX/JP)         Arika, 2000
 Tetris: The Grand Master 3 - Terror-Instinct (ARC)           Arika, 2005
-
+Tetris Giant (ARC)                                            Sega, 2009
 
 
 Tetris (NES/JP)                                                BPS, 1988
 ------------------------------------------------------------------------
 9-5                         1,130
+
+Tetris (GB/JP)                                            Nintendo, 1989
+------------------------------------------------------------------------
+A-Type (0)                /
+A-Type (9)                /
 
 Tetris (GB/World)                                         Nintendo, 1989
 ------------------------------------------------------------------------
@@ -33,7 +39,7 @@ B-Type (9♡/H1)             11,800
 B-Type (9♡/H2)             11,200
 B-Type (9♡/H3)             10,200
 B-Type (9♡/H4)             10,600
-B-Type (9♡/H5)             /
+B-Type (9♡/H5)            /
 
 Tetris (NES/US)                                           Nintendo, 1989
 ------------------------------------------------------------------------
@@ -161,7 +167,7 @@ Reverse                    354 / S1 / 06:33:81
 Reverse 20G                 93 /  9 / 01:38:15
 Score [default]            999 / -- /  201,445
 Score 20G                  999 / -- /  168,961
-Secret Grade (Default)     --- / S1 / 07:24:43
+Secret Grade (Default)     274 / S3 / 05:26:46
 
 Tetris: The Grand Master 2 - The Absolute (ARC)              Arika, 2000
 ------------------------------------------------------------------------
@@ -175,7 +181,7 @@ Master Item                999 / S6 / 11:53:11
 Master Item 20G            999 / S5 / 11:38:95
 Master Big                 636 / S9 / 05:20:66
 Master Big 20G             377 / S3 / 03:00:18
-Secret Grade (Master)      --- / S1 / 04:13:81
+Secret Grade (Master)      203 / S1 / 04:13:81
 
 Tetris: The Grand Master 2 - The Absolute Plus (ARC)         Arika, 2000
 ------------------------------------------------------------------------
@@ -194,7 +200,7 @@ TGM+ 20G                   779 / -- / 08:28:56
 TGM+ Item                  862 / -- / 11:41:81
 TGM+ Item 20G              506 / -- / 06:45:08
 T.A. Death                 500 / -- / 03:58:98
-Secret Grade (Master)      --- / S1 / 03:32:18
+Secret Grade (Master)      121 / S6 / 02:25:65
 T.A. Death (Series of 5)   2,037
 Doubles                    --- / -- / --:--:--
 
@@ -247,19 +253,24 @@ Story (Normal):
 
 Tetris: The Grand Master 3 - Terror-Instinct (ARC)           Arika, 2005
 ------------------------------------------------------------------------
-Easy                   W  200  H284  03:28:43
-Sakura                 W   11   80%  04:29:60
-Master                 W  486    S2  05:03:33
-Master (qual.)         W         S1
-Shirase                W  276    S2  02:22:06
-Master Big             W  713    S5  07:27:13
-Secret Grade (Master)  W  /
-Secret Grade (Shirase) W  /
-Easy                   C  200  H497  03:15:18
-Sakura                 C   18   94%  05:42:10 
-Master                 C  714    S7  06:40:26
-Master (qual.)         C         S4
-Shirase                C  332    S3  02:22:93
-Master Big             C  542    S1  ---
-Secret Grade (Master)  C   /
-Secret Grade (Shirase) C   /
+W:Easy                     200 H284  03:28:43
+W:Sakura                    11  80%  04:29:60
+W:Master                   486   S2  05:03:33
+W:Master (qual.)           ---   S1  --------
+W:Shirase                  276   S2  02:22:06
+W:Master Big               713   S5  07:27:13
+W:Secret Grade Master        /
+W:Secret Grade Shirase       /
+C:Easy                     200 H497  03:15:18
+C:Sakura                    18  94%  05:42:10 
+C:Master                   714   S7  06:40:26
+C:Master (qual.)                 S4
+C:Shirase                  332   S3  02:22:93
+C:Master Big               553   S1  06:18:88
+C:Secret Grade Master        /
+C:Secret Grade Shirase       /
+
+Tetris Giant (ARC)                                            Sega, 2009
+------------------------------------------------------------------------
+Line Challenge             --- Lines  -- Tetris  --,---
+Score Challenge            --- Lines  -- Tetris  --,---
